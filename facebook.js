@@ -16,7 +16,7 @@ var fs = require('fs'),
                       'Es+KCn25OKXR/FJ5fu6A6A+MptABL3r8SEjlpLc=\n'+
                       '-----END RSA PRIVATE KEY-----');
 
-var names = ["Shreyashee Sinha", "Shweta Sharma", "Apoorva Diwvedi", "Swarnali Banarjee", "Mehendi Basu"];
+var names = [/*array of names*/];
 var i = 0;
 var results = [];
 var completed = [];
@@ -42,7 +42,6 @@ function PromiseAccumulator(accumulator, name) {
 			   var promise = new Promise(function(resolve, reject) {
 			   	setTimeout(() => {
 					l = document.querySelectorAll('table._51mz > tbody > tr > td');
-					console.log(l);
 					for(let i = 0; i < l.length; i++) {
 						if(/Profile pictures/g.test(l[i].innerText)) {
 							match = i;
@@ -55,12 +54,8 @@ function PromiseAccumulator(accumulator, name) {
 			   });
 			   return promise;
 			}
+
 		  	var l = document.querySelectorAll('table._51mz > tbody > tr > td');
-		  	let match = 0;
-		  	function pause(milliseconds) {
-				var dt = new Date();
-				while ((new Date()) - dt <= milliseconds) { /* Do nothing */ }
-			}
 		  	if(l.length == 0) { //when it shows error in loading the profile pic
 		  		var fax = [];
 		  		var s = document.getElementsByClassName('_3sz');
@@ -70,6 +65,7 @@ function PromiseAccumulator(accumulator, name) {
 				});
 		  	}
 		  	else {
+		  		let match = 0;
 		  		for(let i = 0; i < l.length; i++) {
 			  		if(/Profile pictures/g.test(l[i].innerText)) {
 			  			match = i;
@@ -99,14 +95,22 @@ fs.readFile('../fapx.txt', 'utf8', function(err, enc_data) { //fapx.txt contains
 	  .type('input[type="password"]',pass + '\u000d')  // enter password
 	  .wait('span._1qv9') //waits for a random element on the page to load(input was not working)
 	  .then(() => {
+	  	console.log("second");
 		names.reduce(PromiseAccumulator, Promise.resolve([])).then(function(results){
 			/*console.log("NAMES: ");
 	        console.log(names);
 		    console.log("completed: ");
 		    console.log(completed);*/
 		    console.dir(results);
+		    //return nightmare.end();
+		}).then(() => {
+			return nightmare.end();
 		});
-	  })
+	  })/*
+	  .then(() => {
+	  	console.log("First");
+	  	return nightmare.end();
+	  })*/
 	  .catch(function (error) {
 	    console.error('Errororor:', error);
 	});
