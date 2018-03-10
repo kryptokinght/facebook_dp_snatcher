@@ -1,25 +1,14 @@
-var fs = require('fs'), 
-	NodeRSA = require('node-rsa'),
-	Nightmare = require('nightmare'),
+var	Nightmare = require('nightmare'),
 	nightmare = Nightmare({ openDevTools: true,
 		show: true, 
 		waitTimeout: 100000,
 		typeInterval: 10 //increases the typing speed
-		}), // show true means it displays an electron window
-	key = new NodeRSA('-----BEGIN RSA PRIVATE KEY-----\n'+
-                      'MIIBOQIBAAJAVY6quuzCwyOWzymJ7C4zXjeV/232wt2ZgJZ1kHzjI73wnhQ3WQcL\n'+
-                      'DFCSoi2lPUW8/zspk0qWvPdtp6Jg5Lu7hwIDAQABAkBEws9mQahZ6r1mq2zEm3D/\n'+
-                      'VM9BpV//xtd6p/G+eRCYBT2qshGx42ucdgZCYJptFoW+HEx/jtzWe74yK6jGIkWJ\n'+
-                      'AiEAoNAMsPqwWwTyjDZCo9iKvfIQvd3MWnmtFmjiHoPtjx0CIQCIMypAEEkZuQUi\n'+
-                      'pMoreJrOlLJWdc0bfhzNAJjxsTv/8wIgQG0ZqI3GubBxu9rBOAM5EoA4VNjXVigJ\n'+
-                      'QEEk1jTkp8ECIQCHhsoq90mWM/p9L5cQzLDWkTYoPI49Ji+Iemi2T5MRqwIgQl07\n'+
-                      'Es+KCn25OKXR/FJ5fu6A6A+MptABL3r8SEjlpLc=\n'+
-                      '-----END RSA PRIVATE KEY-----');
+		}); // show true means it displays an electron window
 
-var names = ["random Name"];
+var names = [/*Array of names you want to scrape*/];
 var i = 0;
-var results = [];
-var completed = [];
+var results = []; 
+var completed = []; //not used, to be used later
 
 
 
@@ -85,15 +74,10 @@ function PromiseAccumulator(accumulator, name) {
 	});
 }
 
-fs.readFile('../fapx.txt', 'utf8', function(err, enc_data) { //fapx.txt contains the encrypted login credentials
-	var decrypted = key.decrypt(enc_data, 'utf8'); //decrypts the data in file
-	var username = decrypted.split('\n')[0]; // seperates username from decrypted data
-	var pass = decrypted.split('\n')[1]; //as above
-
-	nightmare
+nightmare
 	  .goto('https://www.facebook.com/')
-	  .type('input[type="email"]',username) //enter username
-	  .type('input[type="password"]',pass + '\u000d')  // enter password
+	  .type('input[type="email"]',"Your_username") //enter username
+	  .type('input[type="password"]',"your_password" + '\u000d')  // enter password
 	  .wait('span._1qv9') //waits for a random element on the page to load(input was not working)
 	  .then(() => {
 		names.reduce(PromiseAccumulator, Promise.resolve([])).then(function(results){
@@ -106,4 +90,3 @@ fs.readFile('../fapx.txt', 'utf8', function(err, enc_data) { //fapx.txt contains
 	  .catch(function (error) {
 	    console.error('Errororor:', error);
 	});
-});
