@@ -16,7 +16,7 @@ var fs = require('fs'),
                       'Es+KCn25OKXR/FJ5fu6A6A+MptABL3r8SEjlpLc=\n'+
                       '-----END RSA PRIVATE KEY-----');
 
-var names = ["random Name"];
+var names = ['Minanshu Singh', 'Raghav Grover', 'Mehendi Basu'];
 var i = 0;
 var results = [];
 var completed = [];
@@ -40,6 +40,7 @@ function PromiseAccumulator(accumulator, name) {
 	  .evaluate(() => {
 	  	console.log("NAMe: " + name);
 	  		function getSrc() {
+	  			let match = 0;
 			   var promise = new Promise(function(resolve, reject) {
 			   	setTimeout(() => {
 					l = document.querySelectorAll('table._51mz > tbody > tr > td');

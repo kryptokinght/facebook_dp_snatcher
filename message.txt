@@ -1,0 +1,3678 @@
+                                     NITIN KUMAR
+  1     16ME8001      16U10006                       B.Tech-ME     M       OPEN          JEE
+                                        SINGH
+
+                                       RUPESH
+  2     16ME8002      16U10007                       B.Tech-ME     M        OB           JEE
+                                       PRASAD
+
+                                     MURALASETTI
+  3     16ME8003      16U10020         JYOTHI        B.Tech-ME     M       OPEN          JEE
+                                      SWAROOP
+
+  4     16ME8004      16U10023       VIJAY KUMAR     B.Tech-ME     M        OB           JEE
+
+                                       DHEERAJ
+  5     16ME8005      16U10027                       B.Tech-ME     M       OPEN          JEE
+                                        KUMAR
+
+  6     16ME8006      16U10033      DISHANT BOLE     B.Tech-ME     M       OPEN          JEE
+
+                                     RAGHUVEER
+  7     16ME8007      16U10044                       B.Tech-ME     M        SC           JEE
+                                       KUMAR
+
+  8     16ME8008      16U10046      GERA RAKESH      B.Tech-ME     M        SC           JEE
+
+  9     16ME8009      16U10057        ALOK RAJ       B.Tech-ME     M        OB           JEE
+
+                                    RAWAT PIYUSH
+ 10     16ME8010      16U10059                       B.Tech-ME     M       OPEN          JEE
+                                     MAHENDRA
+
+ 11     16ME8011      16U10061      ANJAN GHOSH      B.Tech-ME     M        OB           JEE
+
+ 12     16ME8012      16U10064       VIKAS MISHRA    B.Tech-ME     M       OPEN          JEE
+
+ 13     16ME8013      16U10069      ANKIT CHOUBEY    B.Tech-ME     M       OPEN          JEE
+
+ 14     16ME8014      16U10070      SAUVIK MANDAL    B.Tech-ME     M       OPEN          JEE
+
+                                     DHARAVATH
+ 15     16ME8015      16U10071                       B.Tech-ME     M        ST           JEE
+                                    ARAVIND DEVA
+
+                                       ABHIJIT
+ 16     16ME8016      16U10074                       B.Tech-ME     M       OPEN          JEE
+                                      GANGULY
+
+ 17     16ME8017      16U10077       AHONA MITRA     B.Tech-ME     F       OPEN          JEE
+
+                                      AYANTIKA
+ 18     16ME8018      16U10080                       B.Tech-ME     F        SC           JEE
+                                       MONDAL
+
+                                       ANKUR
+ 19     16ME8019      16U10089                       B.Tech-ME     M       OPEN          JEE
+                                    CHAKRABORTY
+
+ 20     16ME8020      16U10099      ANSHUL THAKUR    B.Tech-ME     M       OPEN          JEE
+
+                                       ARINDAM
+ 21     16ME8021      16U10100                       B.Tech-ME     M        SC           JEE
+                                        MALICK
+
+                                    GOTTUMUKKALA
+ 22     16ME8022      16U10109                       B.Tech-ME     M       OPEN          JEE
+                                      SREERAM
+
+                                    SOUMAN KUMAR
+ 23     16ME8023      16U10114                       B.Tech-ME     M       OPEN          JEE
+                                        PANI
+
+                                       GADDE
+ 24     16ME8024      16U10116        VENKATA        B.Tech-ME     M       OPEN          JEE
+                                     PRUDHVIRAJ
+
+                                      GANESH
+ 25     16ME8025      16U10117                       B.Tech-ME     M       OPEN          JEE
+                                    CHANDRA DEY
+
+                                      SURAJ KR
+ 26     16ME8026      16U10118                       B.Tech-ME     M        SC           JEE
+                                      KANOJIYA
+
+                                    MATHALA DIVYA
+ 27     16ME8027      16U10127                       B.Tech-ME     M        SC           JEE
+                                        TEJA
+
+ 28     16ME8028      16U10129       AMIT YADAV      B.Tech-ME     M      OPEN-PH        JEE
+
+                                    PRITAM KUMAR
+ 29     16ME8029      16U10130                       B.Tech-ME     M        OB           JEE
+                                        PANDIT
+
+                                    KESAVADASUPA
+ 30     16ME8030      16U10132       LEM RAM SAI     B.Tech-ME     M        OB           JEE
+                                       NAVEEN
+                            TATTIKOTA
+31   16ME8031   16U10140   AKHILESWARA     B.Tech-ME   M    OB     JEE
+                               RAO
+
+                           BUGIDI PAVAN
+32   16ME8032   16U10142                   B.Tech-ME   M    OB     JEE
+                               SAI
+
+33   16ME8033   16U10165     ASHAY RAJ     B.Tech-ME   M   OPEN    JEE
+
+34   16ME8034   16U10167   SAMBIT BISWAS   B.Tech-ME   M    SC     JEE
+
+                               TUMATI
+35   16ME8035   16U10178                   B.Tech-ME   M   OPEN    JEE
+                              KOUSHIK
+
+36   16ME8036   16U10179   RISHI AGARWAL   B.Tech-ME   M   OPEN    JEE
+
+                            BIJAY KUMAR
+37   16ME8037   16U10180                   B.Tech-ME   M    OB     JEE
+                              BARNWAL
+
+                            SOUMALLYA
+38   16ME8038   16U10186                   B.Tech-ME   M    OB     JEE
+                             BISHAYEE
+
+39   16ME8039   16U10189    AVINASH ROY    B.Tech-ME   M    OB     JEE
+
+40   16ME8040   16U10199    RISHAV DAS     B.Tech-ME   M    OB     JEE
+
+41   16ME8041   16U10214     ADRISH BIR    B.Tech-ME   M   OPEN    JEE
+
+                             PRASHANT
+42   16ME8042   16U10218                   B.Tech-ME   M   OPEN    JEE
+                              ANUPAM
+
+43   16ME8043   16U10233    KANAD MITRA    B.Tech-ME   M   OPEN    JEE
+
+44   16ME8044   16U10240   SATISH KUMAR    B.Tech-ME   M   SC-PH   JEE
+
+45   16ME8045   16U10256   AYUSH SAXENA    B.Tech-ME   M   OPEN    JEE
+
+                               ANKIT
+46   16ME8046   16U10288                   B.Tech-ME   M    OB     JEE
+                             BARANWAL
+
+47   16ME8047   16U10289    VIYOM VIVEK    B.Tech-ME   M   OPEN    JEE
+
+48   16ME8048   16U10291    SUDEEP JANA    B.Tech-ME   M    SC     JEE
+
+49   16ME8049   16U10297   AVINASH KUMAR   B.Tech-ME   M    OB     JEE
+
+                             SAI KUMAR
+50   16ME8050   16U10301                   B.Tech-ME   M    ST     JEE
+                              AZMEERA
+
+                           AKSHAY KUMAR
+51   16ME8051   16U10305                   B.Tech-ME   M   OPEN    JEE
+                              VERMA
+
+52   16ME8052   16U10308   RAHUL GHOSH     B.Tech-ME   M   OPEN    JEE
+
+53   16ME8053   16U10321   GAURAV KUMAR    B.Tech-ME   M    OB     JEE
+
+                             SANJIBAN
+54   16ME8054   16U10323                   B.Tech-ME   M    OB     JEE
+                              DUTTA
+
+                              GAURAV
+55   16ME8055   16U10324                   B.Tech-ME   M    SC     JEE
+                              MALLICK
+
+                              BRIJESH
+56   16ME8056   16U10329                   B.Tech-ME   M    ST     JEE
+                              TAMANG
+
+                             KALUBOINA
+57   16ME8057   16U10341                   B.Tech-ME   M    OB     JEE
+                              DEEPAK
+
+58   16ME8058   16U10342   CHANDAN RAAZ    B.Tech-ME   M    OB     JEE
+
+                              SOUMYA
+59   16ME8059   16U10351                   B.Tech-ME   M   OPEN    JEE
+                              MANDAL
+
+                            RASH KUMAR
+60   16ME8060   16U10354                   B.Tech-ME   M    SC     JEE
+                              HAZRA
+
+                            SAGARDEEP
+61   16ME8061   16U10356                   B.Tech-ME   M    SC     JEE
+                               DAS
+
+                           MASUD AHAMED
+62   16ME8062   16U10357                   B.Tech-ME   M    OB     JEE
+                              HALDER
+
+63   16ME8063   16U10364   SHIVAM SINGH    B.Tech-ME   M   OPEN    JEE
+
+                              ANUSKA
+64   16ME8064   16U10368                   B.Tech-ME   F    SC     JEE
+                              MONDAL
+                             MUFFADDAL
+65   16ME8065   16U10374       JUZER        B.Tech-ME   M   OPEN   DASA
+                            MADRASWALA
+
+                              SHIWANI
+66   16ME8066   16U10376                    B.Tech-ME   F   OPEN   DASA
+                              SHARMA
+
+67   16ME8067   16U10378   SANDIP KUMAR     B.Tech-ME   M    ST    JEE
+
+68   16ME8068   16U10380   SAGEN SOREN      B.Tech-ME   M    ST    JEE
+
+                            SUBHADEEP
+69   16ME8069   16U10390                    B.Tech-ME   M   OPEN   JEE
+                               ROY
+
+                             VEGULLA
+70   16ME8070   16U10391   MEHAR KRISHNA    B.Tech-ME   M   OPEN   JEE
+                             SUDHEER
+
+                              SOHOM
+71   16ME8071   16U10392                    B.Tech-ME   M   OPEN   JEE
+                             GOSWAMI
+
+                           SUNNY KUMAR
+72   16ME8072   16U10396                    B.Tech-ME   M    SC    JEE
+                               RAM
+
+                              ANAMIKA
+73   16ME8073   16U10397                    B.Tech-ME   F   OPEN   JEE
+                             UPADHYAY
+
+74   16ME8074   16U10404   SHESH KUMAR      B.Tech-ME   M    SC    JEE
+
+75   16ME8075   16U10407    SAHIL GHOSH     B.Tech-ME   M   OPEN   JEE
+
+                              RONDLA
+76   16ME8076   16U10416                    B.Tech-ME   M   OPEN   JEE
+                            VINAYREDDY
+
+77   16ME8077   16U10417   DIBYADIPTA ROY   B.Tech-ME   M   OPEN   JEE
+
+                           RAKTIM SURYA
+78   16ME8078   16U10430                    B.Tech-ME   M   OPEN   JEE
+                             MONDAL
+
+                            SUBHAJYOTI
+79   16ME8079   16U10432                    B.Tech-ME   M    SC    JEE
+                              BISWAS
+
+                            SATYABRATA
+80   16ME8080   16U10438                    B.Tech-ME   M   OB     JEE
+                                PAL
+
+81   16ME8081   16U10439   SASMIT BISWAS    B.Tech-ME   M   OPEN   JEE
+
+82   16ME8082   16U10440   ABHISEK RATH     B.Tech-ME   M   OPEN   JEE
+
+                           ANUPAM KUMAR
+83   16ME8083   16U10446                    B.Tech-ME   M    ST    JEE
+                               TIGGA
+
+84   16ME8084   16U10451   SHIVAM SINGH     B.Tech-ME   M   OPEN   JEE
+
+                              RHYTHM
+85   16ME8085   16U10461                    B.Tech-ME   M   OPEN   JEE
+                              BHATTA
+
+                           DURLABH JYOTI
+86   16ME8086   16U10464                    B.Tech-ME   M   OPEN   JEE
+                              GOGOI
+
+                           GAURISH KUMAR
+87   16ME8087   16U10466                    B.Tech-ME   M   OPEN   JEE
+                               SHAW
+
+88   16ME8088   16U10470   ARQUAM IMAM      B.Tech-ME   M   OPEN   JEE
+
+                             SHYAMALI
+89   16ME8089   16U10471                    B.Tech-ME   F    ST    JEE
+                              MURMU
+
+                            ASHUTOSH
+90   16ME8090   16U10475                    B.Tech-ME   M    SC    JEE
+                           KUMAR BHARTI
+
+                            BOREDDY SAI
+91   16ME8091   16U10476                    B.Tech-ME   M   OPEN   JEE
+                            MAHIT REDDY
+
+92   16ME8092   16U10478     SIBAM ROY      B.Tech-ME   M   OPEN   JEE
+
+93   16ME8093   16U10484   SAYAN BISWAS     B.Tech-ME   M   OPEN   JEE
+
+                              SAGNIK
+94   16ME8094   16U10490                    B.Tech-ME   M   OPEN   JEE
+                           CHAKRABORTY
+
+                           DIBYA PRAKASH
+95   16ME8095   16U10492                    B.Tech-ME   M   OB     JEE
+                                BISHI
+                             CHAKKA RAM
+96    16ME8096   16U10507                   B.Tech-ME   M   OPEN    JEE
+                               GOPAL
+
+                             DHANANJAY
+97    16ME8097   16U10513                   B.Tech-ME   M   OB-PH   JEE
+                               KUMAR
+
+                             YENUGU SRI
+98    16ME8098   16U10515                   B.Tech-ME   M   OPEN    JEE
+                            PAVAN KRISHNA
+
+                              ABHISHEK
+99    16ME8099   16U10537                   B.Tech-ME   M    OB     JEE
+                               KUMAR
+
+                              SATANTRA
+100   16ME8100   16U10539                   B.Tech-ME   M   OPEN    JEE
+                               TEWARI
+
+                              NAGALLA
+101   16ME8101   16U10544                   B.Tech-ME   M    OB     JEE
+                            PRAVEEN RAJU
+
+                               PALLINTI
+102   16ME8102   16U10546      KRISHNA      B.Tech-ME   M   OPEN    JEE
+                              CHAITANYA
+
+103   16ME8103   16U10548     ABHISHEK      B.Tech-ME   M    OB     JEE
+
+                             AHANGJEET
+104   16ME8104   16U10560                   B.Tech-ME   M   OPEN    DASA
+                              BANERJEE
+
+                              MD FARID
+105   16ME8105   16U10563                   B.Tech-ME   M   OPEN    JEE
+                               NAWAJ
+
+                            ENDAMURI JAJI
+106   16ME8106   16U10567                   B.Tech-ME   M    OB     JEE
+                               ASHOK
+
+107   16ME8107   16U10568    NIRAJ KUMAR    B.Tech-ME   M    OB     JEE
+
+108   16ME8108   16U10572   SUBHAM DEORI    B.Tech-ME   M    ST     JEE
+
+109   16ME8109   16U10576    NILOY SAHA     B.Tech-ME   M   OPEN    ICCR
+
+110   16ME8110   16U10582   SAIKAT GHOSH    B.Tech-ME   M    OB     JEE
+
+                               INAGANTI
+111   16ME8111   16U10584                   B.Tech-ME   M   OPEN    JEE
+                              JAYADEEP
+
+                              PRANNOY
+112   16ME8112   16U10585                   B.Tech-ME   M   OPEN    DASA
+                               MANDAL
+
+                             KILARI PAVAN
+113   16ME8113   16U10586                   B.Tech-ME   M    OB     JEE
+                                KUMAR
+
+                            GAURI SHANKAR
+114   16ME8114   16U10592                   B.Tech-ME   M    OB     JEE
+                               PRASAD
+
+115   16ME8115   16U10596    SAIKAT JHAN    B.Tech-ME   M   OPEN    ICCR
+
+116   16ME8116   16U10598   ADITYA KUMAR    B.Tech-ME   M    OB     JEE
+
+117   16ME8117   16U10599   RAJEEV RANJAN   B.Tech-ME   M   OPEN    JEE
+
+                            VALLABHANENI
+118   16ME8118   16U10611   SATYA RAGHU     B.Tech-ME   M   OPEN    JEE
+                                VAMSI
+
+119   16ME8119   16U10614   RAHUL KUMAR     B.Tech-ME   M    OB     JEE
+
+                             SOURODEEP
+120   16ME8120   16U10617                   B.Tech-ME   M   OPEN    JEE
+                               MONDAL
+
+121   16ME8121   16U10618     G KISHORE     B.Tech-ME   M   OPEN    JEE
+
+122   16ME8122   16U10622   PRITAM DATTA    B.Tech-ME   M   OPEN    JEE
+
+                               BEJJAM
+123   16ME8123   16U10623                   B.Tech-ME   M    SC     JEE
+                            LAKSHMAN ROY
+
+                            NAMMI VENKATA
+124   16ME8124   16U10625                   B.Tech-ME   M    OB     JEE
+                             DILEEP KUMAR
+
+                              ASHWANI
+125   16ME8125   16U10632                   B.Tech-ME   M   OPEN    JEE
+                               KUMAR
+
+126   16ME8126   16U10634    SOUVIK HUI     B.Tech-ME   M   OPEN    JEE
+
+                             OM PRAKASH
+127   16ME8127   16U10636                   B.Tech-ME   M   OPEN    MEA
+                                 DAS
+                              SHASHANK
+128   16ME8128   16U10648                    B.Tech-ME   M   OB     JEE
+                                NAYAK
+
+                            PADOLE ANIKET
+129   16ME8129   16U10650                    B.Tech-ME   M   OB     JEE
+                               NAMDEO
+
+                            KANDULA NIKHIL
+130   16ME8130   16U10660                    B.Tech-ME   M   OPEN   JEE
+                               KUMAR
+
+                              SHANKAR
+131   16ME8131   16U10662                    B.Tech-ME   M    ST    JEE
+                               KUMAR
+
+132   16ME8132   16U10667   SOUVIK GHOSH     B.Tech-ME   M   OPEN   JEE
+
+133   16ME8133   16U10671   RAMJAN SHAIKH    B.Tech-ME   M   OB     JEE
+
+                              GOVINDA
+134   16ME8134   16U10675                    B.Tech-ME   M    SC    JEE
+                            KUMAR BAITHA
+
+                             DEBANGSHU
+135   16ME8135   16U10678                    B.Tech-ME   M   OB     JEE
+                             PARAMANIK
+
+                              DEVUPALLI
+136   16ME8136   16U10688                    B.Tech-ME   F    SC    JEE
+                               THANUJA
+
+137   16ME8137   16U10689     TIASA DAS      B.Tech-ME   F   OPEN   JEE
+
+138   16ME8138   16U10690    NEERAJ RAHI     B.Tech-ME   M    SC    JEE
+
+139   16ME8139   16U10693   MD ALFAYED ALI   B.Tech-ME   M   OB     JEE
+
+140   16ME8140   16U10697   ABHISEK GUPTA    B.Tech-ME   M   OB     JEE
+
+                              MARIAMA
+141   16ME8141   16U10712     MASANEH        B.Tech-ME   F   OPEN   ICCR
+                              SAMURA
+
+                              NOMUSA
+142   16ME8142   16U10713                    B.Tech-ME   F   OPEN   ICCR
+                             MATHLAOLA
+
+                               SAMRAT
+143   16ME8143   16U10714                    B.Tech-ME   M   OPEN   MEA
+                              SHRESTHA
+
+144   16ME8144   16U10721   NITIKA MONDAL    B.Tech-ME   F   OB     JEE
+
+145   16ME8145   16U10725   ANUPAM BISWAS    B.Tech-ME   M    SC    JEE
+
+                              SOORYAN
+146   16ME8146   16U10731                    B.Tech-ME   M   OPEN   MEA
+                               SANEL
+
+                             PRATEEKEE
+147   16EE8001   16U10001                    B.Tech-EE   F   OPEN   JEE
+                             CHATTERJEE
+
+148   16EE8002   16U10002   DEEP MONDAL      B.Tech-EE   M    SC    JEE
+
+                              MITHIRAJ
+149   16EE8003   16U10005                    B.Tech-EE   M    ST    JEE
+                              NARZARY
+
+                                TABISH
+150   16EE8004   16U10011                    B.Tech-EE   M   OB     JEE
+                               SHAKEEL
+
+151   16EE8005   16U10012    ADITI MANDAL    B.Tech-EE   F    SC    JEE
+
+                               ABHIK
+152   16EE8006   16U10015                    B.Tech-EE   M   OPEN   JEE
+                             CHATTERJEE
+
+                            MANISH KUMAR
+153   16EE8007   16U10032                    B.Tech-EE   M   OB     JEE
+                              MAHATO
+
+                               ROUNAK
+154   16EE8008   16U10034                    B.Tech-EE   M   OPEN   JEE
+                              BANERJEE
+
+155   16EE8009   16U10038   SWAPNIL SINHA    B.Tech-EE   M   OPEN   JEE
+
+                              ANIRUDHA
+156   16EE8010   16U10039                    B.Tech-EE   M    SC    JEE
+                               MANDAL
+
+157   16EE8011   16U10040   SANDIP KUNDU     B.Tech-EE   M   OB     JEE
+
+158   16EE8012   16U10053   JYOTIRMOY NAG    B.Tech-EE   M   OB     JEE
+
+159   16EE8013   16U10054   BIPLAB MANDAL    B.Tech-EE   M    SC    JEE
+
+                               AKASH
+160   16EE8014   16U10055                    B.Tech-EE   M    ST    JEE
+                              MOCHARY
+161   16EE8015   16U10073   AVIRUP SIKDAR   B.Tech-EE   M    OPEN     JEE
+
+                              PRIYANSHU
+162   16EE8016   16U10078                   B.Tech-EE   F     OB      JEE
+                                 SAINI
+
+                              SHASHANK
+163   16EE8017   16U10087                   B.Tech-EE   M    OPEN     JEE
+                               KUMAR
+
+164   16EE8018   16U10093    SIMANKA DAS    B.Tech-EE   M     ST      JEE
+
+                              SANTOSH
+165   16EE8019   16U10098                   B.Tech-EE   M     SC      JEE
+                               KUMAR
+
+                              SOUROJIT
+166   16EE8020   16U10119                   B.Tech-EE   M    OPEN     JEE
+                             MUKHERJEE
+
+167   16EE8021   16U10120   DEBALINA DAS    B.Tech-EE   F     SC      JEE
+
+                             TANNEEDI SAI
+168   16EE8022   16U10124                   B.Tech-EE   M    OPEN     JEE
+                                PAVAN
+
+169   16EE8023   16U10136   JATIN KOCHAR    B.Tech-EE   M    OPEN     JEE
+
+                              DAYANIDHI
+170   16EE8024   16U10145                   B.Tech-EE   M     ST      JEE
+                               MURMU
+
+                             ANIRUDDHA
+171   16EE8025   16U10148                   B.Tech-EE   M    OPEN     JEE
+                                GUIN
+
+                              SUBHADIP
+172   16EE8026   16U10157                   B.Tech-EE   M    OPEN     JEE
+                               SARKAR
+
+                               SAMBIT
+173   16EE8027   16U10159                   B.Tech-EE   M    OPEN     JEE
+                             MUKHERJEE
+
+                             KANAPARTHI
+174   16EE8028   16U10169                   B.Tech-EE   M    OPEN     JEE
+                            DINESH KUMAR
+
+175   16EE8029   16U10171     AYAN PAL      B.Tech-EE   M     OB      JEE
+
+176   16EE8030   16U10176   TANMOY GHOSH    B.Tech-EE   M     OB      JEE
+
+177   16EE8031   16U10177   REHNAB KHAN     B.Tech-EE   M    OPEN     JEE
+
+                               AAYUSH
+178   16EE8032   16U10188                   B.Tech-EE   M    OPEN     JEE
+                              AGARWAL
+
+179   16EE8033   16U10191       VIKAS       B.Tech-EE   M     OB      JEE
+
+180   16EE8034   16U10194    UTPAL SINGH    B.Tech-EE   M    OPEN     JEE
+
+181   16EE8035   16U10198    SOUMIK DEY     B.Tech-EE   M    OPEN     JEE
+
+                             BHUVANAGIRI
+182   16EE8036   16U10210                   B.Tech-EE   F    OPEN     JEE
+                               VIJAYA
+
+                              MUDDADA
+183   16EE8037   16U10217                   B.Tech-EE   F     OB      JEE
+                               VASAVI
+
+                               SUBHAM
+184   16EE8038   16U10221                   B.Tech-EE   M     OB      JEE
+                               PRASAD
+
+                              SASWAT
+185   16EE8039   16U10234                   B.Tech-EE   M    OPEN     JEE
+                            RANJAN PANDA
+
+186   16EE8040   16U10235   ASHISH KUMAR    B.Tech-EE   M     OB      JEE
+
+187   16EE8041   16U10236    ROHIT KUMAR    B.Tech-EE   M     OB      JEE
+
+                              CHALLA V S
+                               MOHANA
+188   16EE8042   16U10251                   B.Tech-EE   M    OPEN     JEE
+                            BHAVANARAYAN
+                              A KARTHIK
+
+                              ABHISHEK
+189   16EE8043   16U10255                   B.Tech-EE   M   OPEN-PH   JEE
+                              MOHANTY
+
+190   16EE8044   16U10265   MANISH GAUTAM   B.Tech-EE   M     SC      JEE
+
+191   16EE8045   16U10267    ANKIT KUMAR    B.Tech-EE   M     OB      JEE
+
+                               PAPPU
+192   16EE8046   16U10274                   B.Tech-EE   M     OB      JEE
+                             NARENDHAR
+
+193   16EE8047   16U10294    SAUGATA DAS    B.Tech-EE   M     SC      JEE
+194   16EE8048   16U10298    ANISHA SAHA     B.Tech-EE   F   OPEN   JEE
+
+195   16EE8049   16U10304    ABDUL LATIF     B.Tech-EE   M   OB     JEE
+
+196   16EE8050   16U10317   MAKAM RUTHVIK    B.Tech-EE   M   OPEN   JEE
+
+                              BHASKAR
+197   16EE8051   16U10328                    B.Tech-EE   M   OB     JEE
+                            KUMAR YADAV
+
+198   16EE8052   16U10332    TRISHA BORA     B.Tech-EE   F   OPEN   JEE
+
+                              SUBHADIP
+199   16EE8053   16U10333                    B.Tech-EE   M   OB     JEE
+                              CHANDRA
+
+                               AYUSH
+200   16EE8054   16U10336                    B.Tech-EE   M   OPEN   JEE
+                              AGARWAL
+
+                             REETUPARNA
+201   16EE8055   16U10361                    B.Tech-EE   F   OB     JEE
+                                SAHA
+
+                               SUKANTA
+202   16EE8056   16U10367                    B.Tech-EE   M   OPEN   JEE
+                                MANNA
+
+                              POULOMEE
+203   16EE8057   16U10370                    B.Tech-EE   F   OPEN   JEE
+                               GHOSH
+
+                              KONKYANA
+204   16EE8058   16U10373                    B.Tech-EE   F   OB     JEE
+                               MANISHA
+
+205   16EE8059   16U10383     SUJAY DAS      B.Tech-EE   M   OPEN   JEE
+
+                              DEV JYOTI
+206   16EE8060   16U10386                    B.Tech-EE   M   OPEN   ICCR
+                                GOON
+
+                               SHREYA
+207   16EE8061   16U10399                    B.Tech-EE   F   OPEN   JEE
+                             SRIVASTAVA
+
+                              ABHILASHA
+208   16EE8062   16U10402                    B.Tech-EE   F    SC    JEE
+                               KUMARI
+
+                              SANDEEP
+209   16EE8063   16U10409                    B.Tech-EE   M    SC    JEE
+                              CHANDRA
+
+                               AKASH
+210   16EE8064   16U10423                    B.Tech-EE   M   OPEN   JEE
+                            CHAKRABORTY
+
+                              VUTNUR
+211   16EE8065   16U10424                    B.Tech-EE   M   OB     JEE
+                            NETHAJI GOUD
+
+                              ABHISHEK
+212   16EE8066   16U10442                    B.Tech-EE   M   OB     JEE
+                               GUPTA
+
+213   16EE8067   16U10447   SOUVIK MONDAL    B.Tech-EE   M    SC    JEE
+
+214   16EE8068   16U10457    VIKAS YADAV     B.Tech-EE   M   OB     JEE
+
+                                RIJU
+215   16EE8069   16U10479   BHATTACHARJE     B.Tech-EE   M   OPEN   JEE
+                                  E
+
+216   16EE8070   16U10485    JYOTI KUMARI    B.Tech-EE   F   OPEN   JEE
+
+                              PASAPULETI
+217   16EE8071   16U10493   VEERA VENKATA    B.Tech-EE   M   OPEN   JEE
+                             KRISHNA AKHIL
+
+218   16EE8072   16U10500    ASHA KUMARI     B.Tech-EE   F   OB     JEE
+
+219   16EE8073   16U10514   PRAGATI SINGH    B.Tech-EE   F   OPEN   JEE
+
+220   16EE8074   16U10521    SAYAN KESH      B.Tech-EE   M   OPEN   JEE
+
+                               ARPAN KR
+221   16EE8075   16U10529                    B.Tech-EE   M   OPEN   JEE
+                              PRAMANICK
+
+                            RAVIBHUSHAN
+222   16EE8076   16U10533                    B.Tech-EE   M   OPEN   JEE
+                               KUMAR
+
+223   16EE8077   16U10553   ANSHU KUMARI     B.Tech-EE   F   OB     JEE
+
+                              ISLAVATH
+224   16EE8078   16U10556                    B.Tech-EE   M    ST    JEE
+                              SREERAM
+
+                                AYAN
+225   16EE8079   16U10590                    B.Tech-EE   M   OPEN   JEE
+                             CHATTERJEE
+226   16EE8080   16U10593   RAHUL KUMAR     B.Tech-EE   M     OB      JEE
+
+                              SHRAMANA
+227   16EE8081   16U10602                   B.Tech-EE   F    OPEN     JEE
+                                SAHA
+
+                               ARPAN
+228   16EE8082   16U10637                   B.Tech-EE   M    OPEN     JEE
+                             MUKHERJEE
+
+                            PRIYANKA ROY
+229   16EE8083   16U10638                   B.Tech-EE   F    OPEN     JEE
+                             CHOUDHURY
+
+230   16EE8084   16U10655     ASIF IMRAN    B.Tech-EE   M   OPEN-PH   JEE
+
+231   16EE8085   16U10661    RAJ SONKAR     B.Tech-EE   M     SC      JEE
+
+232   16EE8086   16U10666   DILKUSH MEENA   B.Tech-EE   M     ST      JEE
+
+233   16EE8087   16U10668   SAIKAT MONDAL   B.Tech-EE   M     SC      JEE
+
+234   16EE8088   16U10674   VODURI ROSHAN   B.Tech-EE   M    OPEN     JEE
+
+                               VAIBHAV
+235   16EE8089   16U10676                   B.Tech-EE   M    OPEN     JEE
+                               MISHRA
+
+                               NIKHIL
+236   16EE8090   16U10679                   B.Tech-EE   M    OPEN     JEE
+                              MURARKA
+
+                              ABHISHEK
+237   16EE8091   16U10681                   B.Tech-EE   M     OB      JEE
+                               MANTH
+
+                             SAHELI DAS
+238   16EE8092   16U10702                   B.Tech-EE   F    OPEN     DASA
+                               NEOGI
+
+                              AMADOU S
+239   16EE8093   16U10707                   B.Tech-EE   M    OPEN     ICCR
+                               JALLOW
+
+240   16EE8094   16U10710   ROHEY CAMARA    B.Tech-EE   F    OPEN     ICCR
+
+                              ABHINAV
+241   16EE8095   16U10715     ASHEESH       B.Tech-EE   M    OPEN     MEA
+                               LUGUN
+
+242   16CE8001   16U10008   RAJNISH KUMAR   B.Tech-CE   M     OB      JEE
+
+                            AKASH KUMAR
+243   16CE8002   16U10035                   B.Tech-CE   M    OPEN     JEE
+                                NAG
+
+244   16CE8003   16U10037   PIJUSH AKHULI   B.Tech-CE   M    OPEN     JEE
+
+                               RUPPA
+245   16CE8004   16U10048                   B.Tech-CE   M     OB      JEE
+                            CHANDRA VAMSI
+
+246   16CE8005   16U10062   AKSHYA SWAMI    B.Tech-CE   F     OB      JEE
+
+                             RICHA SINGH
+247   16CE8006   16U10110                   B.Tech-CE   F    OPEN     JEE
+                              CHAUHAN
+
+248   16CE8007   16U10121    VAIBHAV RAI    B.Tech-CE   M    OPEN     JEE
+
+249   16CE8008   16U10125   POULOMEE ROY    B.Tech-CE   F    OPEN     JEE
+
+250   16CE8009   16U10164   J RAMAKRISHNA   B.Tech-CE   M     ST      JEE
+
+                            DHIRAJ KUMAR
+251   16CE8010   16U10205                   B.Tech-CE   M     OB      JEE
+                               SHARMA
+
+252   16CE8011   16U10227    RAHUL KISKU    B.Tech-CE   M     ST      JEE
+
+                            PANDIRI VINAY
+253   16CE8012   16U10231                   B.Tech-CE   M    OPEN     JEE
+                               REDDY
+
+254   16CE8013   16U10238    SABIR ALAM     B.Tech-CE   M   OPEN-PH   JEE
+
+255   16CE8014   16U10259     VIVEK RAJ     B.Tech-CE   M     SC      JEE
+
+                              MANGALAM
+256   16CE8015   16U10263                   B.Tech-CE   M    OPEN     JEE
+                               KUMAR
+
+                               MUDDAM
+257   16CE8016   16U10272      SHASHI       B.Tech-CE   M     OB      JEE
+                              PREETHAM
+
+258   16CE8017   16U10279   KOUSIK MANDAL   B.Tech-CE   M     SC      JEE
+
+259   16CE8018   16U10281   SANJAY YADAV    B.Tech-CE   M     OB      JEE
+                            SIRIYAPUREDDY
+260   16CE8019   16U10295      DINESWAR     B.Tech-CE   M   OPEN    JEE
+                                 REDDY
+
+                             CHALUMURI
+261   16CE8020   16U10302                   B.Tech-CE   M    OB     JEE
+                            PAVAN KUMAR
+
+                            MYLABATHULA
+262   16CE8021   16U10307                   B.Tech-CE   M    SC     JEE
+                            AKHIL CHAND
+
+                             SUBHRANSU
+263   16CE8022   16U10316                   B.Tech-CE   M   OPEN    JEE
+                              MOHANTY
+
+264   16CE8023   16U10340    ARNAB NATH     B.Tech-CE   M    OB     JEE
+
+265   16CE8024   16U10350     AMRIT RAJ     B.Tech-CE   M    OB     JEE
+
+266   16CE8025   16U10389   DEBMALYA DAS    B.Tech-CE   M   OPEN    JEE
+
+267   16CE8026   16U10403   SUBHADIP SEN    B.Tech-CE   M    OB     JEE
+
+                              SUDIPTA
+268   16CE8027   16U10406                   B.Tech-CE   M   OPEN    JEE
+                            CHAKRABORTY
+
+                              RAJDEEP
+269   16CE8028   16U10422                   B.Tech-CE   M    SC     JEE
+                              GOLDER
+
+                            VISHAL KUMAR
+270   16CE8029   16U10426                   B.Tech-CE   M   OPEN    JEE
+                               SHARMA
+
+                            ARUNANGSHU
+271   16CE8030   16U10433                   B.Tech-CE   M    SC     JEE
+                              MONDAL
+
+                             SHAIK ASAD
+272   16CE8031   16U10443                   B.Tech-CE   M   OPEN    JEE
+                               AHMED
+
+273   16CE8032   16U10452   AJMAIL MANDAL   B.Tech-CE   M    OB     JEE
+
+                              SUBHASH
+274   16CE8033   16U10467                   B.Tech-CE   M    OB     JEE
+                               KUMAR
+
+                               BHUKYA
+275   16CE8034   16U10480                   B.Tech-CE   M    ST     JEE
+                              RAJKUMAR
+
+                              PRASHANT
+276   16CE8035   16U10489                   B.Tech-CE   M   OPEN    JEE
+                               MITTAL
+
+                             POTTA AMAR
+277   16CE8036   16U10497     KRISHNA       B.Tech-CE   M   OPEN    JEE
+                              SANTOSH
+
+278   16CE8037   16U10502    AVINASH JHA    B.Tech-CE   M   OPEN    JEE
+
+                             MANESHWAR
+279   16CE8038   16U10504                   B.Tech-CE   M    OB     JEE
+                             KUMAR RAM
+
+                              RAJU NAIK
+280   16CE8039   16U10534                   B.Tech-CE   M    ST     JEE
+                               AJMERA
+
+                              SHUBHAM
+281   16CE8040   16U10550                   B.Tech-CE   M   OPEN    JEE
+                               KHARE
+
+282   16CE8041   16U10559   SUBHAJIT DAS    B.Tech-CE   M   OPEN    JEE
+
+283   16CE8042   16U10562   SAURABH KIRAN   B.Tech-CE   M   OPEN    JEE
+
+284   16CE8043   16U10570   DEEPAK KUMAR    B.Tech-CE   M    OB     JEE
+
+285   16CE8044   16U10603      MD ATIF      B.Tech-CE   M   OB-PH   JEE
+
+286   16CE8045   16U10627    ARJUN MAITI    B.Tech-CE   M    SC     JEE
+
+287   16CE8046   16U10630   WASIM AKRAM     B.Tech-CE   M    OB     JEE
+
+                             SHAKESPEAR
+288   16CE8047   16U10640                   B.Tech-CE   M    ST     JEE
+                               HANSDA
+
+                              DIPTARKA
+289   16CE8048   16U10669                   B.Tech-CE   M   OPEN    JEE
+                               GHOSH
+
+                             TANIKONDA
+290   16CE8049   16U10682                   B.Tech-CE   M    SC     JEE
+                               VENU
+                              VUTUKURU
+291   16CE8050   16U10692   VAMSI KRISHNA   B.Tech-CE    M    OPEN     JEE
+                               REDDY
+
+                            SACHIN KUMAR
+292   16CE8051   16U10727                   B.Tech-CE    M     OB      JEE
+                               YADAV
+
+293   16CE8052   16U10729     SONU SAH      B.Tech-CE    M    OPEN     MEA
+
+                               TAMAL
+294   16EC8001   16U10018                   B.Tech-ECE   M    OPEN     JEE
+                             CHOWDHURY
+
+                             MADDIPATI
+295   16EC8002   16U10022   VENKATA MANI    B.Tech-ECE   M   OPEN-PH   JEE
+                               KUMAR
+
+                              MEDAPATI
+296   16EC8003   16U10028     ANUDEEP       B.Tech-ECE   M    OPEN     JEE
+                               REDDY
+
+297   16EC8004   16U10030   VARTIKA ARORA   B.Tech-ECE   F    OPEN     JEE
+
+298   16EC8005   16U10036   MONSIJ BISWAL   B.Tech-ECE   M    OPEN     JEE
+
+299   16EC8006   16U10047    MEGHLA MAJI    B.Tech-ECE   F     SC      JEE
+
+                            SAMAYAMANTHU
+300   16EC8007   16U10050                   B.Tech-ECE   M    OPEN     JEE
+                             LA SAI AKASH
+
+                              JANARDAN
+301   16EC8008   16U10051                   B.Tech-ECE   M     OB      JEE
+                                KUNDU
+
+302   16EC8009   16U10052   ARPAN MAHATO    B.Tech-ECE   M     OB      JEE
+
+                             SHIVASHISH
+303   16EC8010   16U10066                   B.Tech-ECE   M    OPEN     JEE
+                               DUTTA
+
+304   16EC8011   16U10081     ISHANI NAG    B.Tech-ECE   F     OB      JEE
+
+                            SONALI SWETA
+305   16EC8012   16U10085                   B.Tech-ECE   F    OPEN     JEE
+                               PADMA
+
+                               RUDRA
+306   16EC8013   16U10091                   B.Tech-ECE   M    OPEN     JEE
+                              BANERJEE
+
+307   16EC8014   16U10094    P HARIHARAN    B.Tech-ECE   M    OPEN     JEE
+
+308   16EC8015   16U10095   NIMAGNA HAZRA   B.Tech-ECE   M    OPEN     JEE
+
+309   16EC8016   16U10096   ANIMESH DATTA   B.Tech-ECE   M    OPEN     JEE
+
+310   16EC8017   16U10106    ARGHA SEN      B.Tech-ECE   M    OPEN     JEE
+
+                            MALLIDI GEETA
+311   16EC8018   16U10108                   B.Tech-ECE   F    OPEN     JEE
+                              MADHURI
+
+                               ABHINAV
+312   16EC8019   16U10115                   B.Tech-ECE   M     OB      JEE
+                               KRISHNA
+
+313   16EC8020   16U10143   AYAN BANERJEE   B.Tech-ECE   M    OPEN     JEE
+
+                              ABHISHEK
+314   16EC8021   16U10146                   B.Tech-ECE   M     OB      JEE
+                               SOURYA
+
+                              ABHISHEK
+315   16EC8022   16U10147                   B.Tech-ECE   M    OPEN     JEE
+                              AGRAWAL
+
+                              CHAYANIKA
+316   16EC8023   16U10163                   B.Tech-ECE   F     SC      JEE
+                                POREL
+
+                              RASHMUNI
+317   16EC8024   16U10168                   B.Tech-ECE   F     ST      JEE
+                               HANSDA
+
+                              SUNKARA
+318   16EC8025   16U10173                   B.Tech-ECE   M     OB      JEE
+                               ROHITH
+
+                            INDRA NARAYAN
+319   16EC8026   16U10190                   B.Tech-ECE   M     OB      JEE
+                                 SAH
+
+320   16EC8027   16U10193   SUMAN MAHATO    B.Tech-ECE   M     OB      JEE
+
+                              GAMPALA
+321   16EC8028   16U10196    VENKAT SAI     B.Tech-ECE   M    OPEN     JEE
+                                TEJA
+322   16EC8029   16U10200    RAJU KUMAR      B.Tech-ECE   M    SC    JEE
+
+323   16EC8030   16U10202   ANIRBAN BANIK    B.Tech-ECE   M   OPEN   JEE
+
+                              SUBHRANIL
+324   16EC8031   16U10203                    B.Tech-ECE   M   OPEN   JEE
+                                KUNDU
+
+                              SARNAVA
+325   16EC8032   16U10207                    B.Tech-ECE   M   OPEN   JEE
+                               KONAR
+
+                            ROSHAN RANA
+326   16EC8033   16U10219                    B.Tech-ECE   M   OPEN   JEE
+                               BAIG
+
+327   16EC8034   16U10223   TAMOGHNO DAS     B.Tech-ECE   M   OPEN   JEE
+
+                             DEEPSAYAN
+328   16EC8035   16U10232                    B.Tech-ECE   M   OB     JEE
+                             SADHUKHAN
+
+                              AKULA SAI
+329   16EC8036   16U10242                    B.Tech-ECE   M   OB     JEE
+                               KRISHNA
+
+                            PATAPANCHALA
+330   16EC8037   16U10246                    B.Tech-ECE   M   OB     JEE
+                            NAVEEN KUMAR
+
+                            TUMMALAPALLI
+331   16EC8038   16U10247    DIVYA SESHA     B.Tech-ECE   F   OPEN   JEE
+                            SAI SOUGANDHI
+
+                             TUMMEPALLI
+332   16EC8039   16U10250    ANKA AKASH      B.Tech-ECE   M   OPEN   JEE
+                               GUPTA
+
+333   16EC8040   16U10252   POULOMI HORE     B.Tech-ECE   F   OB     JEE
+
+                            KARANAM VAMSI
+334   16EC8041   16U10260                    B.Tech-ECE   M   OB     JEE
+                               KRISHNA
+
+                            MARAPAKA ANIL
+335   16EC8042   16U10264                    B.Tech-ECE   M    SC    JEE
+                               KUMAR
+
+                             VANKUDOTH
+336   16EC8043   16U10266                    B.Tech-ECE   M    ST    JEE
+                              SANTHOSH
+
+                            CHINTALAPUDI
+                             MANIKANTA
+337   16EC8044   16U10278                    B.Tech-ECE   F   OB     JEE
+                            VARAPRASADA
+                              LAKSHMI
+
+338   16EC8045   16U10283   PALLI ARAVIND    B.Tech-ECE   M   OB     JEE
+
+339   16EC8046   16U10284   DHARAVATH SAI    B.Tech-ECE   M    ST    JEE
+
+                             SUBHADEEP
+340   16EC8047   16U10296                    B.Tech-ECE   M   OB     JEE
+                              CHANDRA
+
+341   16EC8048   16U10303   AVINASH KUMAR    B.Tech-ECE   M   OB     JEE
+
+342   16EC8049   16U10309   SAURAV SUMAN     B.Tech-ECE   M    SC    JEE
+
+                              A D BHANU
+343   16EC8050   16U10311                    B.Tech-ECE   M    SC    JEE
+                               PRAKASH
+
+344   16EC8051   16U10326   PARINITA MITRA   B.Tech-ECE   F    SC    JEE
+
+345   16EC8052   16U10331    DIPAYAN DAS     B.Tech-ECE   M    SC    JEE
+
+346   16EC8053   16U10343    AMITAVA DAS     B.Tech-ECE   M   OPEN   JEE
+
+                               BOLLOJU
+347   16EC8054   16U10345                    B.Tech-ECE   M   OB     JEE
+                            SAIVARAPRASAD
+
+                               SAYAN
+348   16EC8055   16U10347                    B.Tech-ECE   M   OPEN   JEE
+                              BANERJEE
+
+                             BHOLA NATH
+349   16EC8056   16U10359                    B.Tech-ECE   M   OPEN   JEE
+                             CHOWDHARY
+
+                              DEBMALYA
+350   16EC8057   16U10365                    B.Tech-ECE   M   OPEN   JEE
+                                PARAI
+
+351   16EC8058   16U10394   SOUMYADIP DEB    B.Tech-ECE   M   OPEN   JEE
+
+                             DIVI VENKATA
+352   16EC8059   16U10413                    B.Tech-ECE   M   OPEN   JEE
+                              JAGADEESH
+                               INDRANIL
+353   16EC8060   16U10428                    B.Tech-ECE   M   OPEN    JEE
+                                SARKAR
+
+                             GUNDIMEDA
+354   16EC8061   16U10435    DURGA SAI       B.Tech-ECE   M    OB     JEE
+                              KRISHNA
+
+                            SOUMYA SUVRA
+355   16EC8062   16U10436                    B.Tech-ECE   M   OPEN    JEE
+                               GHOSAL
+
+                            YASH AVINASH A
+356   16EC8063   16U10449                    B.Tech-ECE   M    ST     JEE
+                                TIGGA
+
+                             MEGAVATH
+357   16EC8064   16U10450                    B.Tech-ECE   M    ST     JEE
+                             MOHAN NAIK
+
+                            JAGGAVARAPU
+358   16EC8065   16U10454                    B.Tech-ECE   F   OPEN    JEE
+                              MOUNIKA
+
+                              GUDIDODDI
+359   16EC8066   16U10459                    B.Tech-ECE   F   OPEN    JEE
+                               TRIVENI
+
+                               SAMPRITI
+360   16EC8067   16U10462                    B.Tech-ECE   F    SC     JEE
+                               MONDAL
+
+                             BARATAM SAI
+361   16EC8068   16U10465                    B.Tech-ECE   M   OPEN    JEE
+                            DURGA ANIESH
+
+362   16EC8069   16U10487   SHWETA MODAK     B.Tech-ECE   F    OB     JEE
+
+                             KATAKAM V N
+363   16EC8070   16U10494     MANIKANTA      B.Tech-ECE   M   OPEN    JEE
+                               BHARGAV
+
+                               GRANDHI
+                               REVANTH
+364   16EC8071   16U10496                    B.Tech-ECE   M   OPEN    JEE
+                               VENKATA
+                              PREMA SAI
+
+                            KANAMARLAPUD
+365   16EC8072   16U10498                    B.Tech-ECE   M   OPEN    JEE
+                              I MUKHESH
+
+                             ALLU APPALA
+366   16EC8073   16U10516                    B.Tech-ECE   M    OB     JEE
+                                NAIDU
+
+                               MIRIYALA
+367   16EC8074   16U10517                    B.Tech-ECE   M    SC     JEE
+                                ASHISH
+
+368   16EC8075   16U10520    ATUL RANJAN     B.Tech-ECE   M    OB     JEE
+
+                               SOURAV
+369   16EC8076   16U10527                    B.Tech-ECE   M    OB     JEE
+                               MAHATO
+
+370   16EC8077   16U10551   BHUKYA RAGHU     B.Tech-ECE   M    ST     JEE
+
+371   16EC8078   16U10555   JAYANTA GHOSH    B.Tech-ECE   M    OB     JEE
+
+372   16EC8079   16U10579    ABHIJEET DAS    B.Tech-ECE   M   OPEN    ICCR
+
+373   16EC8080   16U10581       KUNAL        B.Tech-ECE   M    SC     JEE
+
+374   16EC8081   16U10588   SUNNY KHATRI     B.Tech-ECE   M    OB     JEE
+
+375   16EC8082   16U10589    RONOJIT ROY     B.Tech-ECE   M   OPEN    JEE
+
+                             PALLE RAMYA
+376   16EC8083   16U10597                    B.Tech-ECE   F    SC     JEE
+                                SREE
+
+                            KUMAR GAURAV
+377   16EC8084   16U10600                    B.Tech-ECE   M   OB-PH   JEE
+                                RAJ
+
+                             PADIGEPATI
+378   16EC8085   16U10633   MALLIKARJUNA     B.Tech-ECE   M   OPEN    JEE
+                               REDDY
+
+                              EALLETI SAI
+379   16EC8086   16U10643                    B.Tech-ECE   M    OB     JEE
+                                VIKRAM
+
+                              SHRABASTI
+380   16EC8087   16U10644                    B.Tech-ECE   F   OPEN    JEE
+                               MONDAL
+
+381   16EC8088   16U10651   RAKHI MONDAL     B.Tech-ECE   F    SC     JEE
+
+382   16EC8089   16U10677   MILAN GARAIN     B.Tech-ECE   M    OB     JEE
+383   16EC8090   16U10694   ANIKET KOLEY    B.Tech-ECE   M   OPEN-PH   JEE
+
+                             AYAN KUMAR
+384   16EC8091   16U10701                   B.Tech-ECE   M     SC      JEE
+                              MAJUMDER
+
+385   16EC8092   16U10703    ANIK PATRA     B.Tech-ECE   M    OPEN     JEE
+
+                              MD SAMIUL
+386   16EC8093   16U10706                   B.Tech-ECE   M    OPEN     ICCR
+                               FAHAD
+
+                             SUMIT KUMAR
+387   16EC8094   16U10718                   B.Tech-ECE   M    OPEN     JEE
+                                SINGH
+
+388   16EC8095   16U10722      VAISHALI     B.Tech-ECE   F     SC      JEE
+
+                             MOHAMMED
+389   16EC8096   16U10728                   B.Tech-ECE   M     OB      JEE
+                             AZHARUDDIN
+
+390   16EC8097   16U10730   ANSHUL SINGH    B.Tech-ECE   M    OPEN     MEA
+
+391   16BT8001   16U10013   SOURAV DUTTA    B.Tech-BT    M    OPEN     JEE
+
+                             KAMBATHULA
+392   16BT8002   16U10014      PREETHI      B.Tech-BT    F     SC      JEE
+                               RISHITHA
+
+                               SAYARI
+393   16BT8003   16U10031                   B.Tech-BT    F    OPEN     JEE
+                             MUKHERJEE
+
+                              ABHISHEK
+394   16BT8004   16U10075                   B.Tech-BT    M    OPEN     JEE
+                               BHATT
+
+395   16BT8005   16U10076    KUSHAL SAHA    B.Tech-BT    M     SC      JEE
+
+396   16BT8006   16U10160   RAHUL KUMAR     B.Tech-BT    M     OB      JEE
+
+397   16BT8007   16U10187   RITESH YADAV    B.Tech-BT    M   OPEN-PH   JEE
+
+                              SOURAV
+398   16BT8008   16U10192                   B.Tech-BT    M    OPEN     JEE
+                             MUKHERJEE
+
+                              AMARNATH
+399   16BT8009   16U10208                   B.Tech-BT    M     SC      JEE
+                               HARIJAN
+
+                             MUDAVATH
+400   16BT8010   16U10269                   B.Tech-BT    M     ST      JEE
+                             VISHAL NAIK
+
+401   16BT8011   16U10273    SIMA LAYEK     B.Tech-BT    F     SC      JEE
+
+402   16BT8012   16U10315   DEBNATH KAYAL   B.Tech-BT    M     OB      JEE
+
+                               PRATYAY
+403   16BT8013   16U10327                   B.Tech-BT    M    OPEN     JEE
+                              SENGUPTA
+
+                             ANNIRUDHA
+404   16BT8014   16U10346                   B.Tech-BT    M    OPEN     JEE
+                              TRIVEDI
+
+                               TENZING
+405   16BT8015   16U10355     NGAWANG       B.Tech-BT    F     ST      JEE
+                                BHUTIA
+
+                             PAL OINDRILA
+406   16BT8016   16U10401                   B.Tech-BT    F    OPEN     JEE
+                               PRABIR
+
+                            DEVALAPALLY
+407   16BT8017   16U10411                   B.Tech-BT    M     OB      JEE
+                             SRIKANTH
+
+                             INDRA BHAN
+408   16BT8018   16U10419                   B.Tech-BT    M     OB      JEE
+                             SINGH PATEL
+
+409   16BT8019   16U10483   SHIPRA SONALI   B.Tech-BT    F    OPEN     JEE
+
+410   16BT8020   16U10503    SAYONI SAHA    B.Tech-BT    F     SC      JEE
+
+411   16BT8021   16U10511    AGAM GARG      B.Tech-BT    M    OPEN     JEE
+
+412   16BT8022   16U10543    SAYANTI DEY    B.Tech-BT    F     OB      JEE
+
+                            ARJUN KUMAR
+413   16BT8023   16U10547                   B.Tech-BT    M     ST      JEE
+                              HEMBRAM
+
+414   16BT8024   16U10549    NISHA BHARTI   B.Tech-BT    F     OB      JEE
+
+415   16BT8025   16U10558   ANKITA MISRA    B.Tech-BT    F    OPEN     JEE
+                              SUKESH
+416   16BT8026   16U10566   NANDAN SAHA      B.Tech-BT    M   OPEN   ICCR
+                               SHUVO
+
+                               ANANDI
+417   16BT8027   16U10569                    B.Tech-BT    F   OPEN   JEE
+                              BATABYAL
+
+418   16BT8028   16U10580   KAMLESH PATEL    B.Tech-BT    M   OB     JEE
+
+419   16BT8029   16U10609   SUDIPTA BALL     B.Tech-BT    M   OPEN   JEE
+
+                              SAURABH
+420   16BT8030   16U10612                    B.Tech-BT    M   OPEN   JEE
+                               KUMAR
+
+                            MOUCHANDRA
+421   16BT8031   16U10619                    B.Tech-BT    F   OPEN   JEE
+                               PAUL
+
+                               AJMIRA
+422   16BT8032   16U10641                    B.Tech-BT    F    ST    JEE
+                              MAMATHA
+
+                             ASHUTOSH
+423   16BT8033   16U10680                    B.Tech-BT    M   OB     JEE
+                            KUMAR YADAV
+
+424   16BT8034   16U10684    ADIPTI SUBBA    B.Tech-BT    F    ST    JEE
+
+425   16BT8035   16U10700   DEBKANTA PAL     B.Tech-BT    M   OB     JEE
+
+426   16BT8036   16U10704    SOVAN DEY       B.Tech-BT    M   OB     JEE
+
+427   16BT8037   16U10724     AMIT ROY       B.Tech-BT    M    SC    JEE
+
+                            SHUBHAMITRA
+428   16CS8001   16U10010                    B.Tech-CSE   F   OPEN   JEE
+                               DATTA
+
+                              MANIKANT
+429   16CS8002   16U10017                    B.Tech-CSE   M   OB     JEE
+                               KUMAR
+
+430   16CS8003   16U10025   ANJALI JAISWAL   B.Tech-CSE   F   OB     JEE
+
+                             VELLANKI SAI
+431   16CS8004   16U10026                    B.Tech-CSE   M   OPEN   JEE
+                                VINAY
+
+432   16CS8005   16U10041   SAGAR GUPTA      B.Tech-CSE   M   OB     JEE
+
+                              SWARNALI
+433   16CS8006   16U10043                    B.Tech-CSE   F   OPEN   JEE
+                              BANERJEE
+
+434   16CS8007   16U10045   MAHESH TUDU      B.Tech-CSE   M    ST    JEE
+
+                             SUDHANSHU
+435   16CS8008   16U10049                    B.Tech-CSE   M   OPEN   JEE
+                               SAURAV
+
+                             MALDODDI
+436   16CS8009   16U10056                    B.Tech-CSE   M   OB     JEE
+                            ROHITH GOUD
+
+437   16CS8010   16U10058    ARHAN DAS       B.Tech-CSE   M    SC    JEE
+
+438   16CS8011   16U10060    DIVYA SINGH     B.Tech-CSE   F   OPEN   JEE
+
+439   16CS8012   16U10067   MOHIT BAMBANI    B.Tech-CSE   M   OPEN   JEE
+
+                               MEDHA
+440   16CS8013   16U10079                    B.Tech-CSE   F    SC    JEE
+                              MAJUMDAR
+
+                              GYANESHA
+441   16CS8014   16U10088                    B.Tech-CSE   M   OPEN   JEE
+                              PRAJJWAL
+
+442   16CS8015   16U10101   AKASH TIWARI     B.Tech-CSE   M   OPEN   JEE
+
+443   16CS8016   16U10103   TANMOY GHOSH     B.Tech-CSE   M   OPEN   JEE
+
+                               RAGHAV
+444   16CS8017   16U10105                    B.Tech-CSE   M   OPEN   JEE
+                               GROVER
+
+                              KONDADI
+445   16CS8018   16U10107    VORUGANTI       B.Tech-CSE   M   OPEN   JEE
+                               SURYA
+
+446   16CS8019   16U10113   KUMAR KANISKA    B.Tech-CSE   M   OPEN   JEE
+
+                            POLAPRAGADA
+447   16CS8020   16U10122                    B.Tech-CSE   M   OPEN   JEE
+                             YASHWANT
+
+                              MINANSHU
+448   16CS8021   16U10123                    B.Tech-CSE   M   OB     JEE
+                                SINGH
+449   16CS8022   16U10144   MAYUKH MAJHI    B.Tech-CSE   M     OB      JEE
+
+                            MD SHAHRUKH
+450   16CS8023   16U10149                   B.Tech-CSE   M     OB      JEE
+                                IMAM
+
+451   16CS8024   16U10152   ANIRBAN PAUL    B.Tech-CSE   M     OB      JEE
+
+452   16CS8025   16U10153     ANKAN DAS     B.Tech-CSE   M    OPEN     JEE
+
+                              APOORVA
+453   16CS8026   16U10162                   B.Tech-CSE   F   OPEN-PH   JEE
+                               DWIVEDI
+
+                            MALE REVANTH
+454   16CS8027   16U10166                   B.Tech-CSE   M    OPEN     JEE
+                               REDDY
+
+455   16CS8028   16U10197    G SNEHA RAO    B.Tech-CSE   F     OB      JEE
+
+456   16CS8029   16U10204   SHREYA PALIT    B.Tech-CSE   F    OPEN     JEE
+
+457   16CS8030   16U10213   NAMA SRIMANTH   B.Tech-CSE   M     OB      JEE
+
+                              MUSUKHA
+458   16CS8031   16U10222                   B.Tech-CSE   M     ST      JEE
+                             BASUMATARY
+
+459   16CS8032   16U10225   KALPNA SINGH    B.Tech-CSE   F     ST      JEE
+
+                            ABHAS KUMAR
+460   16CS8033   16U10230                   B.Tech-CSE   M     OB      JEE
+                              GORAIN
+
+                              DIWAKAR
+461   16CS8034   16U10237                   B.Tech-CSE   M     SC      JEE
+                               BHARTI
+
+462   16CS8035   16U10248   PARUL CHANDEL   B.Tech-CSE   M    OPEN     JEE
+
+                             SURYAMANI
+463   16CS8036   16U10253                   B.Tech-CSE   M     OB      JEE
+                               KUMAR
+
+                               BOPPUDI
+464   16CS8037   16U10254                   B.Tech-CSE   M    OPEN     JEE
+                               AVINASH
+
+                              PATCHALA
+465   16CS8038   16U10276                   B.Tech-CSE   M     SC      JEE
+                            SANDEEP RENU
+
+                             POTHUMUDI
+466   16CS8039   16U10280                   B.Tech-CSE   F     OB      JEE
+                              SIREESHA
+
+                            SHANKHADEEP
+467   16CS8040   16U10287                   B.Tech-CSE   M     OB      JEE
+                                MAN
+
+468   16CS8041   16U10300   MEHENDI BASU    B.Tech-CSE   F    OPEN     JEE
+
+469   16CS8042   16U10306     ASIM BERA     B.Tech-CSE   M     OB      JEE
+
+                              ARGATLA
+470   16CS8043   16U10334                   B.Tech-CSE   M     OB      JEE
+                              SAIKIRAN
+
+                               SOURAV
+471   16CS8044   16U10338                   B.Tech-CSE   M     SC      JEE
+                              KAIBARTYA
+
+472   16CS8045   16U10344   TANISHQ YADAV   B.Tech-CSE   M     OB      JEE
+
+                               ARPAN
+473   16CS8046   16U10360                   B.Tech-CSE   M    OPEN     JEE
+                             CHATTERJEE
+
+                              TAREETA
+474   16CS8047   16U10366                   B.Tech-CSE   F     SC      JEE
+                               BISWAS
+
+                             NANDIGAMA
+475   16CS8048   16U10371                   B.Tech-CSE   M     OB      JEE
+                             KEERTHAN
+
+476   16CS8049   16U10372   ABHISHEK SHAW   B.Tech-CSE   M     ST      JEE
+
+                            YERRANAGULA
+                             VENKATA SAI
+477   16CS8050   16U10379                   B.Tech-CSE   F     OB      JEE
+                                RAM
+                            AMRUTHAVALLI
+
+                            KOGANTI TARUN
+478   16CS8051   16U10381                   B.Tech-CSE   M    OPEN     JEE
+                               CHAND
+
+479   16CS8052   16U10382   PIYUSH BHATIA   B.Tech-CSE   M    OPEN     JEE
+
+                               ADRIJA
+480   16CS8053   16U10388                   B.Tech-CSE   F    OPEN     JEE
+                              BHOWMIK
+481   16CS8054   16U10398   ARNAB MONDAL      B.Tech-CSE   M   OPEN    JEE
+
+                              INTURI JAYA
+482   16CS8055   16U10400                     B.Tech-CSE   M   OPEN    JEE
+                               CHANDRA
+
+483   16CS8056   16U10408    RUPESH DAS       B.Tech-CSE   M   OPEN    DASA
+
+                              PADALA SAI
+484   16CS8057   16U10410                     B.Tech-CSE   M   OPEN    JEE
+                               PRASAD
+
+485   16CS8058   16U10412   MEDANKI NIKHIL    B.Tech-CSE   M    SC     JEE
+
+                                SUHIT
+486   16CS8059   16U10414                     B.Tech-CSE   M   OPEN    DASA
+                              MAJUMDAR
+
+                              SUBHADIP
+487   16CS8060   16U10420                     B.Tech-CSE   M   OPEN    JEE
+                               PATRA
+
+                            RAMSWAROOP
+488   16CS8061   16U10421                     B.Tech-CSE   M    ST     JEE
+                               SOREN
+
+                             MANNEPALLI
+489   16CS8062   16U10427                     B.Tech-CSE   M    OB     JEE
+                            VAMSI KRISHNA
+
+                               VANTARY
+490   16CS8063   16U10429                     B.Tech-CSE   M   OPEN    JEE
+                            REVANTHKUMAR
+
+                            K P LAKSHMAN
+491   16CS8064   16U10431                     B.Tech-CSE   M   OPEN    JEE
+                                REDDY
+
+                             SABYASACHI
+492   16CS8065   16U10444                     B.Tech-CSE   M    OB     JEE
+                               GHOSH
+
+493   16CS8066   16U10448      RAVI RAJ       B.Tech-CSE   M    SC     JEE
+
+                               ABHINAV
+494   16CS8067   16U10456                     B.Tech-CSE   M    OB     JEE
+                               ANURAG
+
+495   16CS8068   16U10469   SAURAV TAYAL      B.Tech-CSE   M   OPEN    JEE
+
+                               SHWETA
+496   16CS8069   16U10474                     B.Tech-CSE   F   OPEN    JEE
+                               SHARMA
+
+                             CHANDRA RAJ
+497   16CS8070   16U10481                     B.Tech-CSE   M   OPEN    JEE
+                                DATTA
+
+498   16CS8071   16U10491   ANKAN PODDAR      B.Tech-CSE   M   OPEN    JEE
+
+                              ANSHUMAN
+499   16CS8072   16U10499                     B.Tech-CSE   M   OPEN    JEE
+                                DASH
+
+500   16CS8073   16U10506   VIDIT SRIVASTAV   B.Tech-CSE   M   OPEN    JEE
+
+501   16CS8074   16U10519   NALANDA LAMA      B.Tech-CSE   M    ST     JEE
+
+                              JYOTIRMOY
+502   16CS8075   16U10524                     B.Tech-CSE   M    SC     JEE
+                               MONDAL
+
+                            DHANDE KSHITIJ
+503   16CS8076   16U10528                     B.Tech-CSE   M    SC     JEE
+                                KIRAN
+
+                             KETHAVATH
+504   16CS8077   16U10530                     B.Tech-CSE   M    ST     JEE
+                            MAHENDER NAIK
+
+                               SUMIT
+505   16CS8078   16U10573                     B.Tech-CSE   M   OPEN    DASA
+                             CHAURASIYA
+
+                               ADITYA
+506   16CS8079   16U10574                     B.Tech-CSE   M   OPEN    DASA
+                            PRASOOM SAH
+
+507   16CS8080   16U10583   AMAL ABDULLA      B.Tech-CSE   M    OB     JEE
+
+508   16CS8081   16U10594    ANUPAM SEN       B.Tech-CSE   M   OB-PH   JEE
+
+                             SHIBSANKAR
+509   16CS8082   16U10595                     B.Tech-CSE   M    SC     JEE
+                              PRAMANIK
+
+                               PARVEZ
+510   16CS8083   16U10604                     B.Tech-CSE   M   OPEN    JEE
+                               HOSSAIN
+
+511   16CS8084   16U10606   AMREET NAYAK      B.Tech-CSE   M   OPEN    MEA
+
+                               ASHISH
+512   16CS8085   16U10610                     B.Tech-CSE   M   OPEN    JEE
+                             AGAROWALA
+513   16CS8086   16U10615   ADARSH KUMAR    B.Tech-CSE   M     SC      JEE
+
+                              KANGANA
+514   16CS8087   16U10616                   B.Tech-CSE   F     SC      JEE
+                              PARSOYA
+
+                              SHUBHAM
+515   16CS8088   16U10624                   B.Tech-CSE   M    OPEN     JEE
+                               GUPTA
+
+                              HARSHIT
+516   16CS8089   16U10626                   B.Tech-CSE   M     OB      JEE
+                              ANURAG
+
+                            ROHAN KUMAR
+517   16CS8090   16U10631   MUKHOPADHYA     B.Tech-CSE   M    OPEN     JEE
+                                 Y
+
+                              VEMULA
+518   16CS8091   16U10646                   B.Tech-CSE   F    OPEN     JEE
+                              AKSHARA
+
+519   16CS8092   16U10653   ROMIT KUMAR     B.Tech-CSE   M    OPEN     JEE
+
+520   16CS8093   16U10654   INDRANIL ROY    B.Tech-CSE   M    OPEN     JEE
+
+                              GUTHULA
+521   16CS8094   16U10683    ESWARA SRI     B.Tech-CSE   M     OB      JEE
+                               VAMSY
+
+                               SUBHAM
+522   16CS8095   16U10685                   B.Tech-CSE   M    OPEN     JEE
+                               MONDAL
+
+523   16CS8096   16U10691   KUNDAN KUMAR    B.Tech-CSE   M     OB      JEE
+
+524   16CS8097   16U10698    SAHIL SAGAN    B.Tech-CSE   M    OPEN     MEA
+
+                              ANIRUDH
+525   16CS8098   16U10699                   B.Tech-CSE   M    OPEN     MEA
+                              GILDIYAL
+
+                            AMADOU MAKKA
+526   16CS8099   16U10708                   B.Tech-CSE   M    OPEN     ICCR
+                               JALLOW
+
+                               SAMBA
+527   16CS8100   16U10709                   B.Tech-CSE   M    OPEN     ICCR
+                              KRUBALLY
+
+                                KUNAL
+528   16CS8101   16U10719     DASHRATH      B.Tech-CSE   M    OPEN     JEE
+                               DEKATE
+
+529   16CS8102   16U10720   S HARIHARAN     B.Tech-CSE   M     SC      JEE
+
+                              ABHISHEK
+530   16CS8103   16U10726                   B.Tech-CSE   M    OPEN     JEE
+                               SINGH
+
+531   16CS8104   16U10732   MANISH JAYANT   B.Tech-CSE   M     SC      MEA
+
+                             SUVROJOTI
+532   16IT8001   16U10009                    B.Tech-IT   M    OPEN     JEE
+                               PAUL
+
+                                AYON
+533   16IT8002   16U10029                    B.Tech-IT   M   OPEN-PH   JEE
+                             CHATTERJEE
+
+                             MADHAB CH
+534   16IT8003   16U10042                    B.Tech-IT   M     OB      JEE
+                              POULIK
+
+                              ARCHITA
+535   16IT8004   16U10068                    B.Tech-IT   F     SC      JEE
+                              SARKAR
+
+                            GUMMADAVALLI
+536   16IT8005   16U10082                    B.Tech-IT   M     OB      JEE
+                             CHARAN SAI
+
+                               ASHISH
+537   16IT8006   16U10084                    B.Tech-IT   M    OPEN     JEE
+                              AGARWAL
+
+                             RIYA RAJESH
+538   16IT8007   16U10086                    B.Tech-IT   F     SC      JEE
+                             WAGHMARE
+
+539   16IT8008   16U10133   RAHUL BAIDYA     B.Tech-IT   M     SC      JEE
+
+                              JULAKANTI
+540   16IT8009   16U10135   SATYAVARDHAN     B.Tech-IT   M    OPEN     JEE
+                                REDDY
+
+541   16IT8010   16U10137   PIYUSH MANTRI    B.Tech-IT   M    OPEN     JEE
+
+                             ASHUTOSH
+542   16IT8011   16U10138                    B.Tech-IT   M    OPEN     JEE
+                             AGARWAL
+543   16IT8012   16U10141    KIRTI GUPTA    B.Tech-IT   F   OPEN   JEE
+
+                               KULDEEP
+544   16IT8013   16U10150                   B.Tech-IT   M   OB     JEE
+                                JANGID
+
+545   16IT8014   16U10158   MANZOOR ALAM    B.Tech-IT   M   OB     JEE
+
+                               PRIYOM
+546   16IT8015   16U10161                   B.Tech-IT   M    ST    JEE
+                             MUSHAHARY
+
+547   16IT8016   16U10175   DEBLEENA SEN    B.Tech-IT   F   OPEN   JEE
+
+                              KOUSTAV
+548   16IT8017   16U10182                   B.Tech-IT   M   OPEN   JEE
+                             CHOUDHURY
+
+549   16IT8018   16U10185    ANKIT KUMAR    B.Tech-IT   M    SC    JEE
+
+                               DEBLINA
+550   16IT8019   16U10201                   B.Tech-IT   F   OPEN   JEE
+                              TALUKDAR
+
+551   16IT8020   16U10212    SATYAJIT DAS   B.Tech-IT   M   OPEN   JEE
+
+552   16IT8021   16U10215    RUCHI SINGH    B.Tech-IT   F   OPEN   JEE
+
+                                NATHI
+553   16IT8022   16U10220     SUCHITHRA     B.Tech-IT   F   OPEN   JEE
+                                REDDY
+
+554   16IT8023   16U10226   SACHIN KUMAR    B.Tech-IT   M   OPEN   JEE
+
+                              KARUTURI
+555   16IT8024   16U10229      JYOTHI       B.Tech-IT   F   OPEN   JEE
+                              SANTOSHI
+
+556   16IT8025   16U10241   ANOOP KUMAR     B.Tech-IT   M   OB     JEE
+
+557   16IT8026   16U10244   ATUL BHARDWAJ   B.Tech-IT   M   OPEN   JEE
+
+558   16IT8027   16U10245   PRADUM KUMAR    B.Tech-IT   M    SC    JEE
+
+                            SUDIREDDY SAI
+559   16IT8028   16U10258                   B.Tech-IT   M   OPEN   JEE
+                             RAMREDDY
+
+                              ANUPAM
+560   16IT8029   16U10268                   B.Tech-IT   M    SC    JEE
+                             CHAUDHARY
+
+                            SURAJ KUMAR
+561   16IT8030   16U10282                   B.Tech-IT   M   OB     JEE
+                               SHAW
+
+                             GARIKAPATI
+562   16IT8031   16U10285                   B.Tech-IT   M    ST    JEE
+                            NITISH KUMAR
+
+                               VARTIKA
+563   16IT8032   16U10290                   B.Tech-IT   F   OPEN   JEE
+                               SHARMA
+
+                            CHAGAMREDDY
+564   16IT8033   16U10292    SHANMUKHA      B.Tech-IT   M   OPEN   JEE
+                               REDDY
+
+565   16IT8034   16U10293   VIKAS PANDEY    B.Tech-IT   M   OPEN   JEE
+
+566   16IT8035   16U10312   SARVESH BAJAJ   B.Tech-IT   M   OPEN   JEE
+
+                              SAPTARSHI
+567   16IT8036   16U10313                   B.Tech-IT   M   OPEN   JEE
+                               DEBNATH
+
+                               SOHAM
+568   16IT8037   16U10314                   B.Tech-IT   M   OPEN   JEE
+                              MEHROTRA
+
+569   16IT8038   16U10335    AMAN LOHIA     B.Tech-IT   M   OPEN   JEE
+
+                            VIKASH KUMAR
+570   16IT8039   16U10337                   B.Tech-IT   M   OB     JEE
+                                YADAV
+
+                               PALLABI
+571   16IT8040   16U10339                   B.Tech-IT   F   OB     JEE
+                               MONDAL
+
+572   16IT8041   16U10348   SAYANTANI DAS   B.Tech-IT   F    SC    JEE
+
+                              TRIPURARI
+573   16IT8042   16U10352                   B.Tech-IT   M   OB     JEE
+                               KUMAR
+
+                               ASHISH
+574   16IT8043   16U10353                   B.Tech-IT   M   OB     JEE
+                              BURNWAL
+                               AKUNURI
+575   16IT8044   16U10358    DHEERAJ SAI    B.Tech-IT   M   OB     JEE
+                            CHAKRAVARTHY
+
+                               GAURAV
+576   16IT8045   16U10362                   B.Tech-IT   M    ST    JEE
+                              BORDOLOI
+
+577   16IT8046   16U10363      SHRISH       B.Tech-IT   M   OPEN   JEE
+
+                               ODURI
+578   16IT8047   16U10377    NARAYANA       B.Tech-IT   M   OPEN   JEE
+                              MURTHY
+
+                               SOURAV
+579   16IT8048   16U10384   BHATTACHARJE    B.Tech-IT   M   OPEN   JEE
+                                  E
+
+                            RAHUL KUMAR
+580   16IT8049   16U10385                   B.Tech-IT   M    SC    JEE
+                               MEHTA
+
+                               DANDA
+581   16IT8050   16U10393                   B.Tech-IT   M   OB     JEE
+                              SANDEEP
+
+582   16IT8051   16U10395    ANTIMA RAI     B.Tech-IT   F   OPEN   JEE
+
+                               SURYA
+583   16IT8052   16U10405     PRAKASH       B.Tech-IT   M   OB     JEE
+                             SINGODIYA
+
+                               KARAN
+584   16IT8053   16U10415                   B.Tech-IT   M   OPEN   JEE
+                              AGARWAL
+
+                            SHANE ROMEL
+585   16IT8054   16U10445                   B.Tech-IT   M    ST    JEE
+                               KUJUR
+
+                            SHUBHANKAR
+586   16IT8055   16U10453                   B.Tech-IT   M   OPEN   JEE
+                            RAJ AGARWAL
+
+587   16IT8056   16U10455   SAROJ KUMAR     B.Tech-IT   M   OB     JEE
+
+                               SRISHTI
+588   16IT8057   16U10463                   B.Tech-IT   F    ST    JEE
+                              BHANDARI
+
+589   16IT8058   16U10468    RITWIKA DAS    B.Tech-IT   F   OB     JEE
+
+590   16IT8059   16U10472     H VINEETH     B.Tech-IT   M    SC    JEE
+
+591   16IT8060   16U10477   JEYA SURYA V    B.Tech-IT   M   OPEN   JEE
+
+592   16IT8061   16U10482   RISHABH SETHI   B.Tech-IT   M   OPEN   JEE
+
+                            GUNTURU SAI
+593   16IT8062   16U10488   YASHWANTH       B.Tech-IT   M   OPEN   JEE
+                              REDDY
+
+594   16IT8063   16U10508   APURVA SINGH    B.Tech-IT   F   OPEN   JEE
+
+595   16IT8064   16U10512    ADITI ANAND    B.Tech-IT   F   OB     JEE
+
+                              GAURAV
+596   16IT8065   16U10523                   B.Tech-IT   M   OPEN   JEE
+                              JAISWAL
+
+                              SHIVANSH
+597   16IT8066   16U10535                   B.Tech-IT   M   OPEN   JEE
+                              AGARWAL
+
+                            YERRANAGULA
+598   16IT8067   16U10561    VENKATESH      B.Tech-IT   M    ST    JEE
+                                NAIK
+
+599   16IT8068   16U10564   SMRITI ANAND    B.Tech-IT   F   OPEN   JEE
+
+                            PINDI KRISHNA
+600   16IT8069   16U10571     CHANDRA       B.Tech-IT   M   OB     JEE
+                               PRASAD
+
+                              SHUBHAM
+601   16IT8070   16U10577                   B.Tech-IT   M   OB     JEE
+                            KUMAR GUPTA
+
+602   16IT8071   16U10587   DEEPAK MITTAL   B.Tech-IT   M   OPEN   JEE
+
+                            SUBHRAJYOTI
+603   16IT8072   16U10601                   B.Tech-IT   M    SC    JEE
+                               ROY
+                               SRIJAN
+604   16IT8073   16U10605                   B.Tech-IT   M   OPEN   JEE
+                              GOSWAMI
+
+                             SHUBHAJYOTI
+605   16IT8074   16U10620                   B.Tech-IT   M   OPEN   JEE
+                               BAGCHI
+
+                              SNEHASHIS
+606   16IT8075   16U10621   BHATTACHARYY    B.Tech-IT   M   OPEN   JEE
+                                  A
+
+607   16IT8076   16U10635   SHANKAR RAY     B.Tech-IT   M   OB     JEE
+
+608   16IT8077   16U10642    SAHIL SAGAR    B.Tech-IT   M    SC    JEE
+
+                              BISHNUDEV
+609   16IT8078   16U10645                   B.Tech-IT   M   OPEN   JEE
+                                PANDA
+
+610   16IT8079   16U10647   SHYAM KUMAR     B.Tech-IT   M    SC    JEE
+
+611   16IT8080   16U10649   AKASH DEBNATH   B.Tech-IT   M   OB     JEE
+
+                              SHASWATA
+612   16IT8081   16U10656                   B.Tech-IT   M   OPEN   ICCR
+                            BHATTACHARYA
+
+                               SHIVAM
+613   16IT8082   16U10659                   B.Tech-IT   M   OPEN   JEE
+                               SINGHAL
+
+                             RITUPARNO
+614   16IT8083   16U10665                   B.Tech-IT   M    SC    JEE
+                              MONDAL
+
+615   16IT8084   16U10672   DEEPAK SHAW     B.Tech-IT   M   OB     JEE
+
+                             MD SANAULLA
+616   16IT8085   16U10673                   B.Tech-IT   M   OB     JEE
+                               ANSARI
+
+                               YOGESH
+617   16IT8086   16U10686                   B.Tech-IT   M   OB     JEE
+                               RATHOD
+
+618   16IT8087   16U10711    SENJUTI BALA   B.Tech-IT   F   OPEN   ICCR
+
+                              ARYAMAN
+619   16IT8088   16U10716                   B.Tech-IT   M   OPEN   JEE
+                               PANDA
+
+                              SAMRIDDHI
+620   16IT8089   16U10723                   B.Tech-IT   F   OB     JEE
+                                GUPTA
+
+621   16CH8001   16U10003    TEETAS ROY     B.Tech-CH   F   OPEN   JEE
+
+622   16CH8002   16U10004     RITIKA DAS    B.Tech-CH   F   OPEN   JEE
+
+623   16CH8003   16U10019    DISHA DHAR     B.Tech-CH   F   OPEN   JEE
+
+                               SAYAN
+624   16CH8004   16U10021                   B.Tech-CH   M   OPEN   JEE
+                              GOSWAMI
+
+                             TANUSHREE
+625   16CH8005   16U10024                   B.Tech-CH   F    SC    JEE
+                               MONDAL
+
+626   16CH8006   16U10065   SUSHMA KUMARI   B.Tech-CH   F   OB     JEE
+
+                            SUBHAM KUMAR
+627   16CH8007   16U10072                   B.Tech-CH   M   OPEN   JEE
+                                DAS
+
+628   16CH8008   16U10092   SMITA MONDAL    B.Tech-CH   F   OB     JEE
+
+                               AVISHEK
+629   16CH8009   16U10097                   B.Tech-CH   M   OPEN   JEE
+                              BANERJEE
+
+                              DEBASHISH
+630   16CH8010   16U10128                   B.Tech-CH   M   OPEN   JEE
+                               SHARMA
+
+631   16CH8011   16U10131   TEJASWI SHAH    B.Tech-CH   M   OPEN   JEE
+
+                               HARSHA
+632   16CH8012   16U10139                   B.Tech-CH   F   OB     JEE
+                            PRIYADARSHINI
+
+                               GAJJALA
+                               KARTHIK
+633   16CH8013   16U10151                   B.Tech-CH   M   OPEN   JEE
+                             VISHWANATH
+                                REDDY
+
+                              ASHUTOSH
+634   16CH8014   16U10155                   B.Tech-CH   M   OPEN   JEE
+                               KUMAR
+
+635   16CH8015   16U10170    TARUN KISKU    B.Tech-CH   M    ST    JEE
+636   16CH8016   16U10172    PIYUSH JAIN    B.Tech-CH   M   OPEN   JEE
+
+                              MONALISA
+637   16CH8017   16U10183                   B.Tech-CH   F   OB     JEE
+                               GORAIN
+
+                            JONNALAGADDA
+638   16CH8018   16U10184                   B.Tech-CH   F   OPEN   JEE
+                              ANISHA RAO
+
+639   16CH8019   16U10195    DILEEP SINGH   B.Tech-CH   M   OB     JEE
+
+640   16CH8020   16U10209   ANANYA GHOSH    B.Tech-CH   F   OB     JEE
+
+                             DEBABRATA
+641   16CH8021   16U10211                   B.Tech-CH   M   OB     JEE
+                               KUNDU
+
+                              SHANI DEV
+642   16CH8022   16U10216                   B.Tech-CH   M   OPEN   JEE
+                                SINGH
+
+643   16CH8023   16U10224   KABERI SARKAR   B.Tech-CH   F   OB     JEE
+
+644   16CH8024   16U10243   NAVEEN KUMAR    B.Tech-CH   M   OPEN   JEE
+
+                            JYOTI RANJAN
+645   16CH8025   16U10261                   B.Tech-CH   M   OPEN   JEE
+                               MISHRA
+
+                               GANTA
+646   16CH8026   16U10262    RAMBHUPAL      B.Tech-CH   M   OPEN   JEE
+                               REDDY
+
+647   16CH8027   16U10271   ABHISHEK PAUL   B.Tech-CH   M   OB     JEE
+
+                             GUGULOTHU
+648   16CH8028   16U10277                   B.Tech-CH   M    ST    JEE
+                              NARESH
+
+                               ARITRA
+649   16CH8029   16U10286                   B.Tech-CH   M   OB     JEE
+                              KARMAKAR
+
+650   16CH8030   16U10319   KRISHNA SAHU    B.Tech-CH   M   OB     JEE
+
+651   16CH8031   16U10320     SNEHDEEP      B.Tech-CH   F    SC    JEE
+
+                            ARADHNA LAMA
+652   16CH8032   16U10325                   B.Tech-CH   F    ST    JEE
+                               YOLMO
+
+                              DEVYANSH
+653   16CH8033   16U10330                   B.Tech-CH   M    SC    JEE
+                                SINGH
+
+654   16CH8034   16U10369   BIDIPTA GHOSH   B.Tech-CH   F   OPEN   JEE
+
+                            RAKESH KUMAR
+655   16CH8035   16U10418                   B.Tech-CH   M    ST    JEE
+                              SISODIYA
+
+                              SUMEDHA
+656   16CH8036   16U10425   BHATTACHARYY    B.Tech-CH   F   OPEN   JEE
+                                  A
+
+                               SOURAV
+657   16CH8037   16U10441                   B.Tech-CH   M    SC    JEE
+                               SARKAR
+
+658   16CH8038   16U10460     SONU DIXIT    B.Tech-CH   M   OPEN   JEE
+
+659   16CH8039   16U10473   PRITHA DUTTA    B.Tech-CH   F   OPEN   JEE
+
+                               NIKKALA
+660   16CH8040   16U10509   ANUSHACHANDR    B.Tech-CH   F    SC    JEE
+                                 IKA
+
+                            SURAJ PRATAP
+661   16CH8041   16U10510                   B.Tech-CH   M    ST    JEE
+                               MARNDI
+
+662   16CH8042   16U10518    AYAN DATTA     B.Tech-CH   M   OPEN   JEE
+
+                               POLAKI
+663   16CH8043   16U10536                   B.Tech-CH   F   OB     JEE
+                              SRIKAVYA
+
+                              SHAHBAL
+664   16CH8044   16U10540                   B.Tech-CH   M   OB     JEE
+                            AKHTER ANSARI
+
+665   16CH8045   16U10541   SUPRATIM DEY    B.Tech-CH   M   OPEN   JEE
+
+666   16CH8046   16U10554   AYUSH KUMAR     B.Tech-CH   M    SC    JEE
+
+667   16CH8047   16U10557       NEHA        B.Tech-CH   F   OB     JEE
+                               TRISHAA
+668   16CH8048   16U10565                    B.Tech-CH   F    OPEN     JEE
+                            BHATTACHARYA
+
+669   16CH8049   16U10575   SUMANT KUMAR     B.Tech-CH   M     SC      JEE
+
+670   16CH8050   16U10608   SANCHARI PAUL    B.Tech-CH   F    OPEN     JEE
+
+                              THAMMANA
+671   16CH8051   16U10658    TIRUMALA SRI    B.Tech-CH   M    OPEN     JEE
+                                 RAM
+
+                             SUBHRANSHI
+672   16CH8052   16U10664                    B.Tech-CH   F     OB      JEE
+                               RAJPUT
+
+                               SADIQUE
+673   16CH8053   16U10695                    B.Tech-CH   M   OPEN-PH   JEE
+                               FARHAN
+
+674   16CH8054   16U10696   INDRAJIT GORAI   B.Tech-CH   M     OB      JEE
+
+                              PROKRITI
+675   16CH8055   16U10705                    B.Tech-CH   F    OPEN     ICCR
+                              MONALINA
+
+676   16MM8001   16U10016   RITESH GUPTA     B.Tech-MM   M    OPEN     JEE
+
+677   16MM8002   16U10063   RUPAK CHANDA     B.Tech-MM   M    OPEN     JEE
+
+                             KONDAPALLI
+678   16MM8003   16U10083                    B.Tech-MM   F     OB      JEE
+                              SRAVANI
+
+679   16MM8004   16U10090    PRANOY RAY      B.Tech-MM   M    OPEN     JEE
+
+                             JANA MEENA
+680   16MM8005   16U10102                    B.Tech-MM   F     OB      JEE
+                               KUMARI
+
+                              SIDDHANT
+681   16MM8006   16U10104                    B.Tech-MM   M    OPEN     JEE
+                              MOHANTY
+
+                              ANINDYA
+682   16MM8007   16U10111                    B.Tech-MM   M    OPEN     JEE
+                             CHATTERJEE
+
+                              EAGA ANIL
+683   16MM8008   16U10112                    B.Tech-MM   M    OPEN     JEE
+                               KUMAR
+
+                             CH V SATYA
+684   16MM8009   16U10126                    B.Tech-MM   M     OB      JEE
+                              SANDEEP
+
+                            SATYAM KUMAR
+685   16MM8010   16U10134                    B.Tech-MM   M     OB      JEE
+                               GUPTA
+
+                            NAVIN CHANDRA
+686   16MM8011   16U10154                    B.Tech-MM   M     ST      JEE
+                                ORAON
+
+687   16MM8012   16U10156    SAAJAN LAL      B.Tech-MM   M     OB      JEE
+
+688   16MM8013   16U10174   JAYANT SARAF     B.Tech-MM   M    OPEN     JEE
+
+689   16MM8014   16U10181     RITESH RAJ     B.Tech-MM   M     SC      JEE
+
+                              SARTHAK
+690   16MM8015   16U10206                    B.Tech-MM   M    OPEN     JEE
+                              BANERJEE
+
+                              DEBOJYOTI
+691   16MM8016   16U10228                    B.Tech-MM   M    OPEN     JEE
+                               MANDAL
+
+                             DEVI PRASAD
+692   16MM8017   16U10239                    B.Tech-MM   M    OPEN     JEE
+                               MISHRA
+
+                               MALAY
+693   16MM8018   16U10249                    B.Tech-MM   M    OPEN     JEE
+                             SRIVASTAVA
+
+                               SUMAN
+694   16MM8019   16U10257                    B.Tech-MM   M    OB-PH    JEE
+                             PARAMANIK
+
+                               ANIMESH
+695   16MM8020   16U10270                    B.Tech-MM   M     OB      JEE
+                               SARKAR
+
+                              HALAVATH
+696   16MM8021   16U10275                    B.Tech-MM   M     ST      JEE
+                               SUMAN
+
+697   16MM8022   16U10299   PANKAJ SHARMA    B.Tech-MM   M    OPEN     JEE
+
+698   16MM8023   16U10310   AKSHAY GUPTA     B.Tech-MM   M    OPEN     JEE
+                              GUGULOTH
+699   16MM8024   16U10318      BHARATH      B.Tech-MM   M    ST    JEE
+                              CHANDRA
+
+                               KAUSHIK
+700   16MM8025   16U10322                   B.Tech-MM   M    SC    JEE
+                               SARDAR
+
+701   16MM8026   16U10349   TIASHA BISWAS   B.Tech-MM   F    SC    JEE
+
+702   16MM8027   16U10375   AARAV KUMAR     B.Tech-MM   M    SC    JEE
+
+                              MADDIRALA
+703   16MM8028   16U10387   VAMSI KRISHNA   B.Tech-MM   M   OPEN   JEE
+                               REDDY
+
+704   16MM8029   16U10434    SANHITA PAL    B.Tech-MM   F   OPEN   JEE
+
+                               SUKIRAN
+705   16MM8030   16U10437                   B.Tech-MM   M    SC    JEE
+                               MANDAL
+
+                            YERRAMSETTI
+706   16MM8031   16U10458   HEMANTH SAI     B.Tech-MM   M   OPEN   JEE
+                               KUMAR
+
+                             VIKKI KUMAR
+707   16MM8032   16U10486                   B.Tech-MM   M    SC    JEE
+                               RAVIDAS
+
+                              PRITHI RAJ
+708   16MM8033   16U10495                   B.Tech-MM   M   OPEN   JEE
+                               SINGHA
+
+709   16MM8034   16U10501    AMAN KUMAR     B.Tech-MM   M   OB     JEE
+
+                              ANUMOY
+710   16MM8035   16U10505                   B.Tech-MM   M   OPEN   JEE
+                              GANGULY
+
+                               PARTHA
+711   16MM8036   16U10522                   B.Tech-MM   M   OB     JEE
+                            SARATHI GHOSH
+
+                              SABAVATH
+712   16MM8037   16U10525                   B.Tech-MM   M    ST    JEE
+                                SRINU
+
+                              KARTIKEY
+713   16MM8038   16U10526                   B.Tech-MM   M   OB     JEE
+                            KUMAR YADAV
+
+714   16MM8039   16U10531   SHIVAM MISHRA   B.Tech-MM   M   OPEN   JEE
+
+                            PYLA VENKATA
+715   16MM8040   16U10532                   B.Tech-MM   M   OB     JEE
+                             DHYANESH
+
+                              KOMMULA
+716   16MM8041   16U10538                   B.Tech-MM   M   OPEN   JEE
+                               SATWIK
+
+                              MEESALA
+717   16MM8042   16U10542                   B.Tech-MM   M   OB     JEE
+                             YESHWANTH
+
+718   16MM8043   16U10545    SUBHAM RAY     B.Tech-MM   M   OPEN   JEE
+
+719   16MM8044   16U10552   MANISH KUMAR    B.Tech-MM   M    SC    JEE
+
+                              PREMJEET
+720   16MM8045   16U10578                   B.Tech-MM   M   OPEN   JEE
+                              CHAUBEY
+
+                             JAY PRAKASH
+721   16MM8046   16U10591                   B.Tech-MM   M    SC    JEE
+                               HARIJAN
+
+                               SUBHAM
+722   16MM8047   16U10607                   B.Tech-MM   M    SC    JEE
+                               PRASAD
+
+723   16MM8048   16U10613     AMIT SHAW     B.Tech-MM   M   OPEN   JEE
+
+                              PRASOON
+724   16MM8049   16U10628                   B.Tech-MM   M   OPEN   JEE
+                               PATHAK
+
+                               GULNAZ
+725   16MM8050   16U10629                   B.Tech-MM   F   OB     JEE
+                              PARWEEN
+
+726   16MM8051   16U10639   SHUVAM SADHU    B.Tech-MM   M   OPEN   JEE
+
+727   16MM8052   16U10652   KUNAL KUMAR     B.Tech-MM   M    SC    JEE
+
+728   16MM8053   16U10657   KAVITA BODRA    B.Tech-MM   F    ST    JEE
+
+                              ABHISHEK
+729   16MM8054   16U10663                   B.Tech-MM   M   OPEN   JEE
+                               SINGH
+                              AVIBRATA
+730   16MM8055   16U10670                    B.Tech-MM       M     OB        JEE
+                               MONDAL
+
+731   16MM8056   16U10687     MD ASMAR       B.Tech-MM       M     OB        JEE
+
+732   16MM8057   16U10717   ANKITA SARKAR    B.Tech-MM       F    OPEN       JEE
+
+                              SHUBHAJIT
+733   16CY4501   16P20222                   M.Sc-Chemistry   M    OPEN     NON-GATE
+                               SINGHA
+
+                               ESHITA
+734   16CY4502   16P20228                   M.Sc-Chemistry   F    OPEN     NON-GATE
+                             MUKHERJEE
+
+735   16CY4503   16P20229    RAJAT BARUA    M.Sc-Chemistry   M     ST      NON-GATE
+
+736   16CY4504   16P20235   SANCHARI SAHA   M.Sc-Chemistry   F    OPEN     NON-GATE
+
+737   16CY4505   16P20236   SUKANYA NEOGI   M.Sc-Chemistry   F    OPEN     NON-GATE
+
+                            RAKESH KUMAR
+738   16CY4506   16P20238                   M.Sc-Chemistry   M     OB      NON-GATE
+                                MAJI
+
+                              MINAKSHI
+739   16CY4507   16P20241                   M.Sc-Chemistry   F    OPEN     NON-GATE
+                               GHOSH
+
+740   16CY4508   16P20248    CHANDNI DAS    M.Sc-Chemistry   F     OB      NON-GATE
+
+                                HIMANI
+741   16CY4509   16P20250                   M.Sc-Chemistry   F    OPEN     NON-GATE
+                              BISHT(NOR)
+
+                              NILANJAN
+742   16CY4510   16P20251                   M.Sc-Chemistry   M    OPEN     NON-GATE
+                              BANERJEE
+
+                              DEEPESH
+743   16CY4511   16P20255                   M.Sc-Chemistry   M     SC      NON-GATE
+                               SHANU
+
+                              SHASHANK
+744   16CY4512   16P20259                   M.Sc-Chemistry   M    OPEN     NON-GATE
+                             GUPTA(NOR)
+
+                             KRISHNENDU
+745   16CY4513   16P20261                   M.Sc-Chemistry   M    OPEN     NON-GATE
+                                SINHA
+
+746   16CY4514   16P20384   SHWETA SAGAR    M.Sc-Chemistry   F     SC       GATE
+
+747   16CY4515   16P20385     SUTAPA DE     M.Sc-Chemistry   F     OB       GATE
+
+748   16PH4501   16P20220    RAM GOPAL       M.Sc-Physics    M   OPEN-PH   NON-GATE
+
+                               PRAGALBH
+749   16PH4502   16P20224                    M.Sc-Physics    M    OPEN     NON-GATE
+                            SINGH RAJAWAT
+
+                               BAIBHAB
+750   16PH4503   16P20225                    M.Sc-Physics    M    OPEN     NON-GATE
+                              BOSE(NOR)
+
+                              NILAKANTH
+751   16PH4504   16P20232                    M.Sc-Physics    M    OPEN     NON-GATE
+                                 PALEI
+
+752   16PH4505   16P20242   ANKUSH MEDHI     M.Sc-Physics    M     OB      NON-GATE
+
+                               BAISALI
+753   16PH4506   16P20244                    M.Sc-Physics    F     OB      NON-GATE
+                             KUNDU(NOR)
+
+                            PRIYANKA ROY
+754   16PH4507   16P20247                    M.Sc-Physics    F    OPEN     NON-GATE
+                             CHOWDHURY
+
+755   16PH4508   16P20254   SANJEEV KUMAR    M.Sc-Physics    M    OPEN     NON-GATE
+
+756   16PH4509   16P20256    VIVEK MEHTA     M.Sc-Physics    M     OB      NON-GATE
+
+                               DEEPAK
+757   16PH4510   16P20260                    M.Sc-Physics    M     OB      NON-GATE
+                             KUMAR(NOR)
+
+                              NABAGATA
+758   16PH4511   16P20266                    M.Sc-Physics    F    OPEN     NON-GATE
+                             CHAUDHURY
+
+759   16PH4512   16P20343   AMAL KISHORE     M.Sc-Physics    M     OB      NON-GATE
+
+760   16PH4513   16P20354      MADHU         M.Sc-Physics    F    OPEN      GATE
+
+761   16PH4514   16P20424   PAWAN KUMAR      M.Sc-Physics    M     SC       GATE
+
+762   16MA4501   16P20216   DIP MUKHERJEE    M.Sc-MATH       M    OPEN     NON-GATE
+
+                               KRISHNA
+763   16MA4502   16P20223                    M.Sc-MATH       M     OB      NON-GATE
+                            NANDAN KUMAR
+764   16MA4503   16P20233    TRISHA MOI     M.Sc-MATH   F    SC    NON-GATE
+
+765   16MA4504   16P20234   SUSHIL PANDIT   M.Sc-MATH   M   OB     NON-GATE
+
+                              MOJAMMEL
+766   16MA4505   16P20243                   M.Sc-MATH   M   OPEN   NON-GATE
+                            HAQUE SARKAR
+
+                               MAHIMA
+767   16MA4506   16P20245                   M.Sc-MATH   F   OPEN   NON-GATE
+                             MEHTA(NOR)
+
+768   16MA4507   16P20246    AJEET SINGH    M.Sc-MATH   M    SC    NON-GATE
+
+                              DEEPJYOTI
+769   16MA4508   16P20249                   M.Sc-MATH   M   OPEN   NON-GATE
+                                SAHA
+
+                            RAJESH RANJAN
+770   16MA4509   16P20253                   M.Sc-MATH   M   OPEN   NON-GATE
+                                PATRA
+
+771   16MA4510   16P20274   AMIT BHASKAR    M.Sc-MATH   M   OB     NON-GATE
+
+772   16MA4511   16P20318   LEKHA SHARMA    M.Sc-MATH   F   OPEN   NON-GATE
+
+773   16MA4512   16P20320   APRATIM DUTTA   M.Sc-MATH   M   OPEN   NON-GATE
+
+                             SABU LAMA
+774   16MA4513   16P20321                   M.Sc-MATH   F    ST    NON-GATE
+                              TAMANG
+
+                            AMBESH KUMAR
+775   16MA4514   16P20331                   M.Sc-MATH   M   OPEN     GATE
+                               PANDEY
+
+776   16MA4515   16P20340   RASHMI KUMARI   M.Sc-MATH   F   OB       GATE
+
+                             DEEPAKSHEE
+777   16MA4516   16P20362                   M.Sc-MATH   F   OB       GATE
+                              KUMAWAT
+
+778   16EE4101   16P10003   SOURAV DHARA    M.tech-EE   M   OPEN   NON_GATE
+
+                                ANIK
+779   16EE4102   16P10004                   M.tech-EE   M   OPEN   NON_GATE
+                             MUKHERJEE
+
+780   16EE4201   16P10006   ANANYA KHAN     M.tech-EE   F   OPEN   NON_GATE
+
+                              DEBARSHI
+781   16EE4103   16P10008                   M.tech-EE   M   OPEN   NON-GATE
+                               DATTA
+
+                             TONMOYEE
+782   16EE4104   16P10009                   M.tech-EE   F   OPEN   NON-GATE
+                               NATH
+
+783   16EE4202   16P10069   SUMANA GHOSH    M.tech-EE   F   OPEN   NON-GATE
+
+                             AISHWARYA
+784   16EE4203   16P10073                   M.tech-EE   F   OPEN   NON-GATE
+                              BANERJEE
+
+785   16EE4105   16P10079    VIVEK YADAV    M.tech-EE   M   OB       GATE
+
+                               UDAYAN
+786   16EE4205   16P10089                   M.tech-EE   M   OPEN   NON-GATE
+                              BANERJEE
+
+                             LAKHYADEEP
+787   16EE4106   16P10111                   M.tech-EE   M   OB       GATE
+                             RAJKONWAR
+
+                              DHIRAJ
+788   16EE4107   16P10119                   M.tech-EE   M   OPEN     GATE
+                            MANDAL(NOR)
+
+                             MRIGENDRA
+789   16EE4206   16P10141                   M.tech-EE   M    SC      GATE
+                                VYAS
+
+                             KARAMDEEP
+790   16EE4108   16P10149                   M.tech-EE   M   OPEN     GATE
+                               SINGH
+
+791   16EE4207   16P10152   ANCHAL ANAND    M.tech-EE   F   OB       GATE
+
+792   16EE4109   16P10156   PRINCE KUMAR    M.tech-EE   M   OB       GATE
+
+                            MALAY RANJAN
+793   16EE4208   16P10165                   M.tech-EE   M   OB       GATE
+                              KHUNTIA
+
+794   16EE4209   16P10170    AVIK SARKAR    M.tech-EE   M   OPEN     GATE
+
+                              SANCHARI
+795   16EE4210   16P10186                   M.tech-EE   F   OB       GATE
+                               HAJARI
+
+                               SANGITA
+796   16EE4110   16P10190                   M.tech-EE   F    SC      GATE
+                               MANDAL
+                             SHEGAONKAR
+797   16EE4111   16P10196      MAYUREE      M.tech-EE   F    SC       GATE
+                               MAHADEV
+
+                              SWADHIN
+798   16EE4112   16P10206                   M.tech-EE   M    OB       GATE
+                            PRASAD ROUT
+
+                              NIRMALI
+799   16EE4113   16P10207                   M.tech-EE   F    ST       GATE
+                              DAIMARY
+
+                              DIPANTITA
+800   16EE4211   16P10219                   M.tech-EE   F    SC       GATE
+                               BISWAS
+
+                              SAURABH
+801   16EE4212   16P10269                   M.tech-EE   M   OPEN      GATE
+                             SUDHANSHU
+
+802   16EE4114   16P10273    UTTAM PAUL     M.tech-EE   M   OB-PH     GATE
+
+                            RUMAN KALYAN
+803   16EE4213   16P10285                   M.tech-EE   M   OPEN      GATE
+                             MAHAPATRA
+
+804   16EE4214   16P10286    BIPLAB KUIRI   M.tech-EE   M    OB       GATE
+
+                              CHINMAY
+805   16EE4215   16P10288     CHANDAN       M.tech-EE   M    OB       GATE
+                               SAHOO
+
+                            MONOJ KUMAR
+806   16EE4216   16P10290                   M.tech-EE   M    ST       GATE
+                              SARDAR
+
+                                MANSI
+807   16EE4217   16P10312                   M.tech-EE   F   OPEN      GATE
+                            TRIPATHI(NOR)
+
+                             MRITYUNJAY
+808   16EE4115   16P10315                   M.tech-EE   M    OB       GATE
+                               GUPTA
+
+                               ADITYA
+809   16EE4116   16P10328     PRAKASH       M.tech-EE   M   OPEN      GATE
+                               MISHRA
+
+810   16EE4218   16P10353    PRADIP PIRI    M.tech-EE   M    OB       GATE
+
+                             DUTTATREYA
+811   16EE4219   16P10379       ROY         M.tech-EE   M   OPEN    NON-GATE
+                             CHOWDHURY
+
+812   16EE4117   16P10418    SOURAV DAS     M.tech-EE   M   OPEN    NON-GATE
+
+                               SAYANTI
+813   16CE4201   16P10005                   M.tech-CE   F   OPEN    NON_GATE
+                              BANERJEE
+
+                              SAHINUR
+814   16CE4202   16P10010     RAHAMAN       M.tech-CE   M    OB     NON-GATE
+                               MONDAL
+
+815   16CE4101   16P10026    SANGITA DE     M.tech-CE   F    OB     NON-GATE
+
+                              KOYNDRIK
+816   16CE4102   16P10032   BHATTACHARJE    M.tech-CE   M   OPEN    NON-GATE
+                                  E
+
+                              ANIRBAN
+817   16CE4103   16P10036                   M.tech-CE   M   OPEN    NON-GATE
+                              GHOSHAL
+
+818   16CE4203   16P10037     TANIA ROY     M.tech-CE   F   OPEN    NON-GATE
+
+819   16CE4104   16P10038   SUMIT BORDHAN   M.tech-CE   M    SC     NON-GATE
+
+                              SHREYASI
+820   16CE4204   16P10040                   M.tech-CE   F   OPEN    NON-GATE
+                             MUKHERJEE
+
+                               PARTHA
+821   16CE4105   16P10050                   M.tech-CE   M   OPEN    NON-GATE
+                             SARATHI PAL
+
+                              DIBYENDU
+822   16CE4106   16P10086                   M.tech-CE   M   OPEN    NON-GATE
+                              BHOWMIK
+
+823   16CE4205   16P10096    SONU SINGH     M.tech-CE   M    OB       GATE
+
+824   16CE4206   16P10125    LOKNATH DAS    M.tech-CE   M   OPEN      GATE
+
+                            HARIKRISHNAN
+825   16CE4107   16P10127                   M.tech-CE   M   OPEN      GATE
+                                 KM
+826   16CE4108   16P10160   BIPLAB BEHERA   M.tech-CE   M    SC     GATE
+
+                              BODASINGI
+827   16CE4109   16P10163                   M.tech-CE   M   OB      GATE
+                             VIJAY KUMAR
+
+                              REETESH
+828   16CE4110   16P10164                   M.tech-CE   M   OB      GATE
+                              PRASAD
+
+                               SOHAM
+829   16CE4207   16P10180                   M.tech-CE   M   OPEN    GATE
+                             MUKHERJEE
+
+830   16CE4211   16P10191       VIKAS       M.tech-CE   M   OB      GATE
+
+                              AYAN RAY
+831   16CE4111   16P10210                   M.tech-CE   M   OPEN    GATE
+                             CHAUDHURY
+
+                              SOUMITA
+832   16CE4212   16P10214                   M.tech-CE   F   OPEN    GATE
+                              MONDAL
+
+                            ANANT KUMAR
+833   16CE4213   16P10221                   M.tech-CE   M   OB      GATE
+                               GUPTA
+
+                               RUPAM
+834   16CE4214   16P10262                   M.tech-CE   M   OPEN    GATE
+                             MUKHERJEE
+
+                             SUBHASISH
+835   16CE4112   16P10272                   M.tech-CE   M    SC     GATE
+                              ROY(NOR)
+
+                             DEBOJYOTI
+836   16CE4113   16P10281                   M.tech-CE   M   OPEN    GATE
+                               PAUL
+
+                               DANISH
+837   16CE4215   16P10283                   M.tech-CE   M   OB      GATE
+                             NASIR(NOR)
+
+                            SHUBHABRATA
+838   16CE4216   16P10293                   M.tech-CE   M    SC     GATE
+                               BARMA
+
+839   16CE4114   16P10295   SAGAR KUMAR     M.tech-CE   M   OPEN    GATE
+
+                             SURYASISH
+840   16CE4115   16P10316                   M.tech-CE   M   OPEN    GATE
+                               PATRA
+
+                               ABIDUR
+841   16CE4116   16P10319                   M.tech-CE   M   OPEN    GATE
+                              RAHAMAN
+
+                              RUPAK
+842   16CE4117   16P10322                   M.tech-CE   M   OPEN    GATE
+                             MAZUMDAR
+
+                             BIDHAN CH
+843   16CE4217   16P10356                   M.tech-CE   M   OB      GATE
+                            MAHATO(NOR)
+
+                              SAURABH
+844   16CE4218   16P10361                   M.tech-CE   M   OPEN    GATE
+                             TAYAL(NOR)
+
+                              RUMANSHU
+845   16CE4118   16P10365                   M.tech-CE   M    ST     GATE
+                             KUMAR(NOR)
+
+846   16CE4219   16P10372   RIMJHIM GHOSH   M.tech-CE   F   OPEN   NON-GATE
+
+847   16CE4119   16P10382   PROLAY MANNA    M.tech-CE   M   OPEN   NON-GATE
+
+848   16ME4101   16P10007     REEAK ARI     M.tech-ME   M   OPEN   NON-GATE
+
+849   16ME4102   16P10012   VIKASH KUMAR    M.tech-ME   M   OB     NON-GATE
+
+                             ORKODIP
+850   16ME4301   16P10018                   M.tech-ME   M   OPEN   NON-GATE
+                            MOOKHERJEE
+
+851   16ME4201   16P10029   PRAMIT KHATUA   M.tech-ME   M   OPEN   NON-GATE
+
+                              SASWATH
+852   16ME4202   16P10033                   M.tech-ME   M   OPEN   NON-GATE
+                               GHOSH
+
+                              DEBARTHA
+853   16ME4203   16P10039                   M.tech-ME   M   OPEN   NON-GATE
+                             CHATTERJEE
+
+                             SAMIKSHA
+854   16ME4103   16P10051                   M.tech-ME   F   OB     NON-GATE
+                             MOHARANA
+
+855   16ME4104   16P10056   AMIRUL HAQUE    M.tech-ME   M   OPEN   NON-GATE
+
+                              SOUMEN
+856   16ME4204   16P10065                   M.tech-ME   M   OPEN   NON-GATE
+                            CHAKRABORTY
+
+857   16ME4302   16P10067       NEHA        M.tech-ME   F   OPEN   NON-GATE
+858   16ME4205   16P10074   NITISH KUMAR    M.tech-ME   M   OPEN    GATE
+
+859   16ME4303   16P10095   GAURAV(NOR)     M.tech-ME   M    SC     GATE
+
+                            BHAVANA RAM
+860   16ME4304   16P10100                   M.tech-ME   M   OPEN    GATE
+                               KUMAR
+
+861   16ME4206   16P10101   ASHUTOSH JENA   M.tech-ME   M   OB      GATE
+
+862   16ME4305   16P10107   POONAM SINGH    M.tech-ME   M    ST     GATE
+
+                            UTTAM KUMAR
+863   16ME4306   16P10110                   M.tech-ME   M   OPEN   NON-GATE
+                                KAR
+
+                             SUVADEEP
+864   16ME4105   16P10113                   M.tech-ME   M   OPEN   NON-GATE
+                             MUKHERJEE
+
+                             BIPIN KUMAR
+865   16ME4207   16P10128                   M.tech-ME   M   OPEN    GATE
+                                MISHRA
+
+                             DEV KUNWAR
+866   16ME4106   16P10131                   M.tech-ME   M   OPEN    GATE
+                            SINGH CHAUHAN
+
+                              RAJESH
+867   16ME4307   16P10132     KESHARI       M.tech-ME   M   OB      GATE
+                             SWAIN(NOR)
+
+                              KAMLESH
+868   16ME4208   16P10133                   M.tech-ME   M   OB      GATE
+                               KUMAR
+
+                             PAL RANJAN
+869   16ME4107   16P10135                   M.tech-ME   M   OPEN    GATE
+                            SASTI CHARAN
+
+870   16ME4308   16P10139      RAHUL        M.tech-ME   M   OPEN    GATE
+
+                              PORIJITA
+871   16ME4209   16P10150                   M.tech-ME   F   OPEN    GATE
+                             SARMA(NOR)
+
+                              SADANAND
+872   16ME4309   16P10167                   M.tech-ME   M   OB      GATE
+                             CHOUDHARY
+
+                             DEBIVARATI
+873   16ME4310   16P10179                   M.tech-ME   F   OPEN    GATE
+                              SARANGI
+
+874   16ME4210   16P10189   ATULYA PATEL    M.tech-ME   M   OB      GATE
+
+                              ABHISHEK
+875   16ME4108   16P10195       KUMAR       M.tech-ME   M   OB      GATE
+                            JAISWAL(NOR)
+
+876   16ME4109   16P10200   RITESH SINGH    M.tech-ME   M   OPEN    GATE
+
+877   16ME4110   16P10201    AMOD KUMAR     M.tech-ME   M    SC     GATE
+
+                             GUDIMALLAM
+878   16ME4111   16P10205       JOTHI       M.tech-ME   M   OB      GATE
+                            VINODHKUMAR
+
+                               MUKESH
+879   16ME4311   16P10211                   M.tech-ME   M    SC     GATE
+                             KUMAR(NOR)
+
+                              PORIJITA
+880   16ME4211   16P10212                   M.tech-ME   M    SC     GATE
+                             SARMA(NOR)
+
+                              SHANTONU
+881   16ME4312   16P10277                   M.tech-ME   M   OB      GATE
+                               MODAK
+
+882   16ME4212   16P10279    RAVI ANAND     M.tech-ME   M    ST     GATE
+
+883   16ME4214   16P10282   BABITA TEWARI   M.tech-ME   F   OPEN    GATE
+
+                              BISWAJIT
+884   16ME4112   16P10284                   M.tech-ME   M   OPEN    GATE
+                             GORAI(NOR)
+
+                              SAMARESH
+885   16ME4113   16P10291       KUMAR       M.tech-ME   M   OB      GATE
+                             PRUSTY(NOR)
+
+                            PARTHA KUMAR
+886   16ME4215   16P10292                   M.tech-ME   M    SC     GATE
+                               MONDAL
+
+887   16ME4114   16P10294   SAIKAT MONDAL   M.tech-ME   M    SC     GATE
+                               BASANT
+888   16ME4313   16P10300                    M.tech-ME    M     OB       GATE
+                             KUMAR(NOR)
+
+889   16ME4216   16P10301   MUKESH KUMAR     M.tech-ME    M     OB       GATE
+
+                            RAJEEV KUMAR
+890   16ME4314   16P10304                    M.tech-ME    M    OPEN      GATE
+                               YADAV
+
+                              SOURABH
+891   16ME4315   16P10327                    M.tech-ME    M    OPEN      GATE
+                            KUMAR NAYAN
+
+                               RAVINDRA
+892   16ME4217   16P10334                    M.tech-ME    M     OB       GATE
+                              KUMAR SAH
+
+                             NIROJ KUMAR
+893   16ME4218   16P10338                    M.tech-ME    M    OPEN      GATE
+                                NAYAK
+
+894   16ME4316   16P10342   SOURAV MITRA     M.tech-ME    M   OPEN-PH    GATE
+
+                              RAVI KANT
+895   16ME4317   16P10349                    M.tech-ME    M    OPEN      GATE
+                               SINGH
+
+896   16ME4115   16P10357     ATUL PRIYA     M.tech-ME    M     OB       GATE
+
+897   16ME4318   16P10380     SUMIT ROY      M.tech-ME    M    OPEN     NON-GATE
+
+898   16ME4319   16P10383   SUBHASH SAHU     M.tech-ME    M     OB      NON-GATE
+
+                             SAJAL KUMAR
+899   16ME4219   16P10423                    M.tech-ME    M     SC      NON-GATE
+                               MONDAL
+
+900   16CS4201   16P10027    SOUMALI ROY     M.tech-CSE   F    OPEN     NON-GATE
+
+901   16CS4101   16P10034    GOVIND RAJ      M.tech-CSE   M    OPEN     NON-GATE
+
+                               CHINMOY
+902   16CS4102   16P10053     SAILENDRA      M.tech-CSE   M    OPEN     NON-GATE
+                                KALITA
+
+903   16CS4103   16P10064   PALAK SINGHAL    M.tech-CSE   F    OPEN      GATE
+
+                            CHANDRANATH
+904   16CS4104   16P10066                    M.tech-CSE   M    OPEN     NON-GATE
+                               BISWAS
+
+905   16CS4105   16P10077   PRIYANKA KAR     M.tech-CSE   F    OPEN     NON-GATE
+
+                              GANGOTRY
+906   16CS4107   16P10083                    M.tech-CSE   F     OB       GATE
+                            VISHWAKARMA
+
+907   16CS4108   16P10084     RAVIKANT       M.tech-CSE   M     SC       GATE
+
+                             OM PRAKASH
+908   16CS4202   16P10104                    M.tech-CSE   M    OPEN      GATE
+                                SINGH
+
+                             KAREN DIVYA
+909   16CS4109   16P10115                    M.tech-CSE   F    OPEN      GATE
+                             SHEKAR(NOR)
+
+910   16CS4110   16P10117      SALONI        M.tech-CSE   F    OPEN      GATE
+
+911   16CS4203   16P10144   KOMAL BHARTI     M.tech-CSE   F     OB       GATE
+
+912   16CS4204   16P10155    ANKIT SINGH     M.tech-CSE   M     SC       GATE
+
+                             UGALE NIKHIL
+913   16CS4111   16P10162                    M.tech-CSE   M    OPEN      GATE
+                              RAJENDRA
+
+                              SARANSH
+914   16CS4205   16P10168                    M.tech-CSE   M    OPEN      GATE
+                            BHANDARI(NOR)
+
+915   16CS4112   16P10193   LIPIKA MOHANTY   M.tech-CSE   F    OPEN      GATE
+
+916   16CS4113   16P10209   ABHAY KUMAR      M.tech-CSE   M     OB       GATE
+
+                               MAYANK
+917   16CS4114   16P10226                    M.tech-CSE   M     OB       GATE
+                             ANAND(NOR)
+
+                              SHIVENDRA
+918   16CS4206   16P10231                    M.tech-CSE   M    OPEN      GATE
+                             SHIVAM(NOR)
+
+                              SONTAKKE
+919   16CS4207   16P10267      VINAYAK       M.tech-CSE   M     SC       GATE
+                              BHAURAO
+
+                              SAMANWAY
+920   16CS4115   16P10270                    M.tech-CSE   M    OPEN      GATE
+                               GHATAK
+                             SHILPA SINGA
+921   16CS4116   16P10289                   M.tech-CSE   F    ST     GATE
+                                 TUDU
+
+922   16CS4117   16P10307   MANJARI RUDRA   M.tech-CSE   F   OPEN    GATE
+
+923   16CS4208   16P10309    PRAKASH DEY    M.tech-CSE   M    SC     GATE
+
+                              PRASHANT
+924   16CS4118   16P10310                   M.tech-CSE   M   OPEN    GATE
+                              SHEKHAR
+
+925   16CS4119   16P10314       NIKITA      M.tech-CSE   F   OB      GATE
+
+                            HEMANT KUMAR
+926   16CS4209   16P10317                   M.tech-CSE   M   OPEN    GATE
+                              CHAUHAN
+
+927   16CS4210   16P10335    SAQUIB ALAM    M.tech-CSE   M   OB      GATE
+
+                               BALRAM
+928   16CS4120   16P10339                   M.tech-CSE   M    SC     GATE
+                              RAJORIYA
+
+                               KUNDAN
+929   16CS4121   16P10371                   M.tech-CSE   M   OB      GATE
+                             KUMAR(NOR)
+
+930   16CS4122   16P10378   SHUCHITA RANI   M.tech-CSE   F   OPEN   NON-GATE
+
+                              THINGUJAM
+931   16EC4101   16P10011                   M.tech-ECE   F   OB     NON-GATE
+                            NIRUPAMA DEVI
+
+                              SWACHETA
+932   16EC4201   16P10014                   M.tech-ECE   F   OPEN   NON-GATE
+                                DUTTA
+
+933   16EC4202   16P10015    NEEMA RAJAN    M.tech-ECE   F   OPEN   NON-GATE
+
+                               PREYASI
+934   16EC4203   16P10024                   M.tech-ECE   F   OPEN   NON-GATE
+                             CHATTERJEE
+
+935   16EC4102   16P10030   SATISH KUMAR    M.tech-ECE   M   OPEN   NON-GATE
+
+                              DEBASHRIT
+936   16EC4204   16P10052                   M.tech-ECE   M   OPEN   NON-GATE
+                                DASH
+
+                             NAYAN TRIPTI
+937   16EC4103   16P10071                   M.tech-ECE   M   OB      GATE
+                               KUMAR
+
+938   16EC4205   16P10072     SHUBHRA       M.tech-ECE   F   OPEN   NON-GATE
+
+939   16EC4104   16P10080   SAMEEN AZHAR    M.tech-ECE   F   OPEN   NON-GATE
+
+940   16EC4206   16P10085   MAHIM SAMANTA   M.tech-ECE   M   OPEN    GATE
+
+                            SHAHARE ROHIT
+941   16EC4207   16P10091                   M.tech-ECE   M    SC     GATE
+                                PREM
+
+                              KULSUNGE
+942   16EC4208   16P10092                   M.tech-ECE   M    ST     GATE
+                            PANKAJ SURESH
+
+943   16EC4209   16P10094   AMIT PRAKASH    M.tech-ECE   M   OB      GATE
+
+                              SANTOSH
+944   16EC4105   16P10098                   M.tech-ECE   M    SC     GATE
+                               KUMAR
+
+                               SHASHI
+945   16EC4106   16P10105                   M.tech-ECE   M   OB      GATE
+                            BHUSHAN VINIT
+
+                              DHRITIMAN
+946   16EC4210   16P10106       DUTTA       M.tech-ECE   M   OPEN    GATE
+                             BARUAH(NOR)
+
+                              ABHISHEK
+947   16EC4211   16P10136                   M.tech-ECE   M    SC     GATE
+                               KUMAR
+
+948   16EC4109   16P10137   MD AZHARUDDIN   M.tech-ECE   M   OB      GATE
+
+949   16EC4212   16P10138   RAJESH GUPTA    M.tech-ECE   M   OPEN    GATE
+
+                            KUNDAN KUMAR
+950   16EC4213   16P10148                   M.tech-ECE   M   OB      GATE
+                                SHAW
+
+951   16EC4214   16P10151     RICHA RANI    M.tech-ECE   F    SC     GATE
+
+                            SOMESH KUMAR
+952   16EC4215   16P10161                   M.tech-ECE   M   OB      GATE
+                              PRAJAPATI
+
+                            MUKESH KUMAR
+953   16EC4110   16P10172                   M.tech-ECE   M    SC     GATE
+                              SAFI(NOR)
+954   16EC4216   16P10175   BALA KUMAR M    M.tech-ECE   M     OB       GATE
+
+                            BIBEKANANDA
+955   16EC4111   16P10197                   M.tech-ECE   M     OB       GATE
+                                SAHU
+
+                             SABYASACHI
+956   16EC4112   16P10199                   M.tech-ECE   M    OPEN      GATE
+                                DAS
+
+                            AMISH KUMAR
+957   16EC4113   16P10203                   M.tech-ECE   M    OPEN      GATE
+                                RAI
+
+958   16EC4114   16P10215   MAMONI SAHA     M.tech-ECE   F     SC       GATE
+
+959   16EC4115   16P10217   SAYANI SARKAR   M.tech-ECE   F     SC       GATE
+
+960   16EC4116   16P10218   ANAND KUMAR     M.tech-ECE   M     OB       GATE
+
+                             BANASHREE
+961   16EC4117   16P10237                   M.tech-ECE   F    OPEN      GATE
+                               SARMA
+
+                             KRISHNENDU
+962   16EC4118   16P10240                   M.tech-ECE   M     SC       GATE
+                               MONDAL
+
+                            GEDELA SATYA
+963   16EC4217   16P10276                   M.tech-ECE   M     OB       GATE
+                              PRAKASH
+
+                                RITIKA
+964   16EC4119   16P10313                   M.tech-ECE   F    OPEN      GATE
+                             SAXENA(NOR)
+
+965   16EC4120   16P10326   TOM BABU(NOR)   M.tech-ECE   M    OPEN      GATE
+
+                             ROHIT KUMAR
+966   16EC4218   16P10329                   M.tech-ECE   M     OB       GATE
+                               YADAV
+
+967   16EC4121   16P10344    RAVI KUMAR     M.tech-ECE   M     OB       GATE
+
+                               RAYALA
+968   16EC4219   16P10345   VINODKUMAR(N    M.tech-ECE   M     OB       GATE
+                                 OR)
+
+                            DEVESH KUMAR
+969   16EC4220   16P10367                   M.tech-ECE   M    OPEN      GATE
+                               MONGA
+
+970   16EC4122   16P10374   SAURABH DEY     M.tech-ECE   M    OPEN     NON-GATE
+
+                              SUCHETA
+971   16EC4123   16P10381                   M.tech-ECE   F    OPEN     NON-GATE
+                              BHAUMIK
+
+                             DEBANGANA
+972   16IT4101   16P10016                    M.tech-IT   F    OPEN     NON-GATE
+                               DUTTA
+
+                              SHUCHITA
+973   16IT4102   16P10031                    M.tech-IT   F    OPEN     NON-GATE
+                              RANI(NOR)
+
+                               MEHBUB
+974   16IT4103   16P10054     RAHAMAN        M.tech-IT   M    OPEN     NON-GATE
+                               MONDAL
+
+                               PALASH
+975   16IT4104   16P10076                    M.tech-IT   M     OB      NON-GATE
+                               MONDAL
+
+                               AKASH
+976   16IT4105   16P10143                    M.tech-IT   M     SC       GATE
+                             VERMA(NOR)
+
+                               SOMA
+977   16IT4106   16P10154                    M.tech-IT   F   OPEN-PH    GATE
+                             KUNDU(NOR)
+
+978   16IT4107   16P10173   ABHINAB DUTTA    M.tech-IT   M    OPEN      GATE
+
+                              MAHADEB
+979   16IT4108   16P10176                    M.tech-IT   M     OB       GATE
+                               PAIKAR
+
+980   16IT4109   16P10187   PANKAJ KUMAR     M.tech-IT   M     SC       GATE
+
+981   16IT4110   16P10198   SURAVI MONDAL    M.tech-IT   F     SC       GATE
+
+982   16IT4111   16P10308    RANTU DAS       M.tech-IT   M    OPEN      GATE
+
+                              ANIRUDDH
+983   16IT4112   16P10324                    M.tech-IT   M    OPEN      GATE
+                               SHARMA
+
+                               TULIKA
+984   16IT4113   16P10350                    M.tech-IT   F    OPEN      GATE
+                             CHOWDHURY
+                                N MANOJ
+985    16IT4114   16P10359                     M.tech-IT    M   OPEN    GATE
+                                SAMURA
+
+                                TANAYA
+986    16IT4115   16P10375                     M.tech-IT    F   OPEN   NON-GATE
+                               GANGULY
+
+                                 NIDHI
+987    16MA4101   16P10059                    M.Tech-MATH   F   OPEN    GATE
+                             CHAUBEY(NOR)
+
+                                 DEEP
+988    16MA4102   16P10068                    M.Tech-MATH   M   OPEN   NON-GATE
+                              CHOUDHURY
+
+989    16MA4103   16P10070   SUKRITI SACHAN   M.Tech-MATH   F   OB      GATE
+
+                               PRIYANKA
+990    16MA4104   16P10097                    M.Tech-MATH   F   OB      GATE
+                              KUMARI(NOR)
+
+                               PRASHANT
+991    16MA4105   16P10099                    M.Tech-MATH   M   OPEN    GATE
+                                 SINGH
+
+992    16MA4106   16P10126    ANUP RANJAN     M.Tech-MATH   M   OB      GATE
+
+993    16MA4107   16P10146   MUKESH KUMAR     M.Tech-MATH   M   OB      GATE
+
+994    16MA4108   16P10159   PRACHI VERMA     M.Tech-MATH   F   OB      GATE
+
+                               SURJEET
+995    16MA4109   16P10178                    M.Tech-MATH   M   OPEN    GATE
+                               MOHANTY
+
+                              KRISHNENDU
+996    16MA4110   16P10188                    M.Tech-MATH   M    SC     GATE
+                               BALA(NOR)
+
+997    16MA4111   16P10204    MEGHA(NOR)      M.Tech-MATH   F   OB      GATE
+
+                             SANGHAMITRA
+998    16MA4112   16P10239                    M.Tech-MATH   F   OPEN    GATE
+                               ADHIKARI
+
+                                PRASUN
+999    16MA4113   16P10341      SOURAV        M.Tech-MATH   M    SC     GATE
+                              MANJHI(NOR)
+
+1000   16PH4101   16P10043    RINKU PAUL      M.Tech-PHY    F   OPEN   NON-GATE
+
+                               ABHISHEK
+1001   16PH4102   16P10061      KUMAR         M.Tech-PHY    M   OPEN    GATE
+                              YADAV(NOR)
+
+                               PRIYANSHA
+1002   16PH4103   16P10112                    M.Tech-PHY    F   OPEN   NON-GATE
+                                SHARMA
+
+1003   16PH4104   16P10114   KUNDAN KUMAR     M.Tech-PHY    M    SC     GATE
+
+                                REUBEN
+1004   16PH4105   16P10140                    M.Tech-PHY    M    SC     GATE
+                               DHARMANA
+
+                               SHUBHAM
+1005   16PH4106   16P10158                    M.Tech-PHY    M   OPEN    GATE
+                              SABBARWAL
+
+1006   16PH4107   16P10287   MAYANK GUPTA     M.Tech-PHY    M   OPEN    GATE
+
+                               RAM BABU
+1007   16PH4108   16P10296                    M.Tech-PHY    M   OPEN    GATE
+                               UPADHYAY
+
+                               PRAVEEN
+1008   16PH4109   16P10305                    M.Tech-PHY    M   OPEN    GATE
+                              KUMAR(NOR)
+
+                                AMAL
+1009   16PH4110   16P10311                    M.Tech-PHY    M   OB      GATE
+                              MOHAN(NOR)
+
+1010   16PH4111   16P10348    BITUPAN DAS     M.Tech-PHY    M    SC     GATE
+
+1011   16PH4112   16P10352   RAHUL PRASAD     M.Tech-PHY    M   OB      GATE
+
+1012   16PH4113   16P10360    NIKHIL KUMAR    M.Tech-PHY    M   OB      GATE
+
+                                PANKAJ
+1013   16PH4114   16P10370                    M.Tech-PHY    M   OB      GATE
+                              SINGH(NOR)
+
+                              AMIT KUMAR
+1014   16CY4101   16P10347                     M.Tech-CY    M    SC     GATE
+                                SETHY
+
+                               SUBHRAJIT
+1015   16MM4101   16P10017                    M.Tech-MM     M   OPEN   NON-GATE
+                                PATNAIK
+                               SAYANDIP
+1016   16MM4102   16P10045                    M.Tech-MM   M    SC    NON-GATE
+                                SARKAR
+
+1017   16MM4103   16P10047     SK MD ARIF     M.Tech-MM   M   OPEN   NON-GATE
+
+                              AJAY KUMAR
+1018   16MM4104   16P10087                    M.Tech-MM   M   OPEN   NON-GATE
+                                MISHRA
+
+                                PRATIM
+1019   16MM4105   16P10124   PARAMANIK(NOR    M.Tech-MM   M    SC     GATE
+                                   )
+
+1020   16MM4106   16P10130    ASHISH SAINI    M.Tech-MM   M   OB      GATE
+
+1021   16MM4107   16P10230   PRANAV KUMAR     M.Tech-MM   M   OPEN    GATE
+
+                              KONA DURGA
+1022   16MM4108   16P10252                    M.Tech-MM   M    SC     GATE
+                               PRASADU
+
+1023   16MM4109   16P10265   ARJUN C(NOR)     M.Tech-MM   M   OPEN    GATE
+
+                                NAMAN
+1024   16MM4110   16P10369                    M.Tech-MM   M   OPEN    GATE
+                               GOSWAMI
+
+                               SAMRESH
+1025   16MM4111   16P10420                    M.Tech-MM   M   OB     NON-GATE
+                             KUMAR SHASHI
+
+                                 IMON
+1026   16ES4101   16P10025   CHAKRABORTY(     M.Tech-ES   M   OPEN   NON-GATE
+                                 NOR)
+
+                                RIMJHIM
+1027   16ES4102   16P10041                    M.Tech-ES   F   OPEN   NON-GATE
+                              GHOSH(NOR)
+
+                               GURPREET
+1028   16ES4103   16P10042                    M.Tech-ES   F   OPEN   NON-GATE
+                             KAUR WADHWA
+
+1029   16ES4104   16P10060   TUSHAR KUMAR     M.Tech-ES   M    SC    NON-GATE
+
+1030   16ES4105   16P10062     HARI OME       M.Tech-ES   M    SC     GATE
+
+1031   16ES4106   16P10082   SAUMYA ARYA      M.Tech-ES   F    SC     GATE
+
+                               DEBOJYOTI
+1032   16ES4107   16P10116                    M.Tech-ES   M   OPEN    GATE
+                                 KUNDU
+
+1033   16ES4109   16P10122   TOUFIC ASLAM     M.Tech-ES   M   OPEN    GATE
+
+1034   16ES4110   16P10123   JASWANT SINGH    M.Tech-ES   M   OB      GATE
+
+1035   16ES4111   16P10142   ARUN KASHYAP     M.Tech-ES   M    SC     GATE
+
+                               ASHUTOSH
+1036   16ES4112   16P10147                    M.Tech-ES   M   OB      GATE
+                              ANAND(NOR)
+
+                             ARVIND KUMAR
+1037   16ES4113   16P10166                    M.Tech-ES   M   OB      GATE
+                              MADDHESIA
+
+                               SAYANTA
+1038   16ES4114   16P10208                    M.Tech-ES   M   OPEN    GATE
+                                SIKDAR
+
+1039   16ES4115   16P10263   Y.MANOJKUMAR     M.Tech-ES   M   OB      GATE
+
+1040   16ES4116   16P10275   ARIJIT SAMANTA   M.Tech-ES   M   OPEN    GATE
+
+1041   16ES4117   16P10278    RAJIB DUTTA     M.Tech-ES   M   OPEN    GATE
+
+1042   16ES4118   16P10303   SANGAM KUMAR     M.Tech-ES   M   OB      GATE
+
+1043   16ES4119   16P10323   DEEPAK KUMAR     M.Tech-ES   M   OB      GATE
+
+                                BRITIKA
+1044   16ES4120   16P10373                    M.Tech-ES   F   OPEN   NON-GATE
+                               MAZUMDAR
+
+                              BISHWATMA
+1045   16ES4121   16P10419                    M.Tech-ES   M   OPEN   NON-GATE
+                                BISWAS
+
+                                SAURAV
+1046   16EI4101   16P10019                    M.Tech-EI   M   OB     NON-GATE
+                               BORBORAH
+
+                             PARTHA PRATIM
+1047   16EI4102   16P10035   BHATTACHARJE     M.Tech-EI   M   OPEN   NON-GATE
+                                E(NOR)
+
+1048   16EI4103   16P10093   ROMY ROY(NOR)    M.Tech-EI   M   OB     NON-GATE
+                             MANOJ KUMAR
+1049   16EI4104   16P10129                    M.Tech-EI   M   OB       GATE
+                               SAHUKAR
+
+1050   16EI4105   16P10134     VIVEK JAIN     M.Tech-EI   M   OPEN     GATE
+
+                               DEBANSHU
+1051   16EI4106   16P10227                    M.Tech-EI   M   OPEN     GATE
+                             BANERJEE(NOR)
+
+1052   16EI4107   16P10257    PRATIK SAHU     M.Tech-EI   M   OB       GATE
+
+                               SAPIREDDY
+1053   16EI4108   16P10264                    M.Tech-EI   M   OPEN     GATE
+                             SRINIVASU(NOR)
+
+                               SHAMBHU
+1054   16EI4109   16P10330                    M.Tech-EI   M   OB       GATE
+                                KUMAR
+
+                                 ISHAN
+1055   16EI4110   16P10333    ABHINANDAN      M.Tech-EI   M   OPEN     GATE
+                                SHARMA
+
+1056   16EI4111   16P10336   ADITYA GUPTA     M.Tech-EI   M   OPEN     GATE
+
+1057   16CA4101   16P10058       ANSHU        M.Tech-CA   F   OPEN     GATE
+
+                               SOURABH
+1058   16CA4102   16P10118                    M.Tech-CA   M    SC      GATE
+                               BHASKAR
+
+                               ANASUYA
+1059   16CA4104   16P10153                    M.Tech-CA   F   OPEN     GATE
+                              CHAUDHURI
+
+                                ADITYA
+1060   16CA4105   16P10169                    M.Tech-CA   M   OPEN     GATE
+                             BRAHMACHARI
+
+                                 ISHIT
+1061   16CA4106   16P10185                    M.Tech-CA   M   OPEN     GATE
+                             KULSHRESHTHA
+
+1062   16CA4107   16P10194    RAHUL PATRA     M.Tech-CA   M   OPEN     GATE
+
+1063   16CA4108   16P10268   BIDYUT DALAL     M.Tech-CA   M   OB       GATE
+
+                               KARNISH
+1064   16CA4109   16P10271   NASRIN AHMED     M.Tech-CA   F   OPEN     GATE
+                               TAPADAR
+
+1065   16CA4110   16P10346   RAJEEV KUMAR     M.Tech-CA   M   OB       GATE
+
+                                DHEERAJ
+1066   16CA4111   16P10364       KUMAR        M.Tech-CA   M    SC      GATE
+                                AHIRWAR
+
+1067   16CH4101   16P10001   JOYEETA BOSE     M.Tech-CH   F   OPEN   NON_GATE
+
+                                VINOD
+1068   16CH4102   16P10013    BABASAHEB       M.Tech-CH   M   OPEN   NON-GATE
+                               VANARSE
+
+                               SOUMAYJIT
+1069   16CH4103   16P10020                    M.Tech-CH   M   OPEN   NON-GATE
+                                 MAKUR
+
+                                SOUMYA
+1070   16CH4104   16P10023                    M.Tech-CH   M   OPEN   NON-GATE
+                             SHANKAR BASU
+
+                                MOUMITA
+1071   16CH4105   16P10046                    M.Tech-CH   F    ST    NON-GATE
+                                SARDAR
+
+                               SAYANTAN
+1072   16CH4106   16P10048                    M.Tech-CH   M   OPEN   NON-GATE
+                                SARKAR
+
+                               SNEHLATA
+1073   16CH4107   16P10049                    M.Tech-CH   F   OPEN   NON-GATE
+                                KUMARI
+
+1074   16CH4108   16P10171    DIPJYOTI ROY    M.Tech-CH   M   OB       GATE
+
+1075   16CH4109   16P10192    RONI MALLICK    M.Tech-CH   M    SC      GATE
+
+                             RAKESH KUMAR
+1076   16CH4110   16P10213                    M.Tech-CH   M    SC      GATE
+                             MOULICK(NOR)
+
+                              PRANABENDU
+1077   16CH4111   16P10298                    M.Tech-CH   M   OPEN     GATE
+                               JANA(NOR)
+
+                               DESAI HARI
+1078   16CH4112   16P10325                    M.Tech-CH   M   OPEN     GATE
+                                HITESH
+                                RAMANUJ
+1079   16CH4113   16P10368      SHANKAR         M.Tech-CH       M   OPEN     GATE
+                              PANDEY(NOR)
+
+1080   16CH4114   16P10376   JAYATI DHARA       M.Tech-CH       F   OPEN   NON-GATE
+
+1081   16CH4115   16P10377   SUMONA SHOW        M.Tech-CH       F    SC    NON-GATE
+
+                               MADHUJA
+1082   16BT4101   16P10002   MUKHOPADHYA        M.Tech-BT       F   OPEN   NON_GATE
+                                Y(NOR)
+
+1083   16BT4102   16P10021   DIVYANI MISHRA     M.Tech-BT       F   OPEN   NON-GATE
+
+                               DIPANJAN
+1084   16BT4103   16P10028                      M.Tech-BT       M   OPEN   NON-GATE
+                               DEY(NOR)
+
+1085   16BT4104   16P10044    ARPITA HAIT       M.Tech-BT       F   OPEN   NON-GATE
+
+1086   16BT4105   16P10090      LISA ROY        M.Tech-BT       F   OPEN   NON-GATE
+
+                             JADHAV ROHAN
+1087   16BT4106   16P10102                      M.Tech-BT       M    SC      GATE
+                                HARSH
+
+1088   16BT4107   16P10145   TUHINA PRASAD      M.Tech-BT       F   OPEN     GATE
+
+                                 DIVYA
+1089   16BT4108   16P10157   DHASMANA(NOR       M.Tech-BT       F   OPEN     GATE
+                                    )
+
+1090   16BT4109   16P10174    ADIBA FATIMA      M.Tech-BT       F   OPEN     GATE
+
+1091   16BT4110   16P10177    PIYUSH JAIN       M.Tech-BT       M   OPEN     GATE
+
+1092   16BT4111   16P10183   RAJAT PANDEY       M.Tech-BT       M   OPEN     GATE
+
+1093   16BT4112   16P10202    DAIJI BRAHMA      M.Tech-BT       F    ST      GATE
+
+                              JAYASHMITA
+1094   16BT4113   16P10258                      M.Tech-BT       F   OB       GATE
+                                BARMAN
+
+                             DHANALAKSHMI.
+1095   16BT4114   16P10297                      M.Tech-BT       F   OPEN     GATE
+                                   J
+
+                              T.N.GANESH
+1096   16BT4115   16P10299                      M.Tech-BT       M   OB       GATE
+                                 KUMAR
+
+1097   16BT4116   16P10302   INDHUMATHI. S      M.Tech-BT       F   OB       GATE
+
+1098   16BT4117   16P10332    VAYAM JOSHI       M.Tech-BT       M   OPEN     GATE
+
+1099   16BT4118   16P10337   NEETU RAWAL        M.Tech-BT       F   OB       GATE
+
+                                BORADE
+1100   16BT4119   16P10351                      M.Tech-BT       M    SC      GATE
+                             VINAYAK ASHOK
+
+                               POONAM
+1101   16BT4120   16P10355                      M.Tech-BT       F   OPEN     GATE
+                              CHOUDHARY
+
+1102   16BT4121   16P10358   SASWAT HOTA        M.Tech-BT       M   OPEN     GATE
+
+1103   16BT4122   16P10363    RESHMA A S        M.Tech-BT       F    SC      GATE
+
+1104   16BT4123   16P10366   MANSI BALHARA      M.Tech-BT       F   OB       GATE
+
+                               PRASENJIT
+1105   16CE6101   16P10022   KARMAKAR(NOR     M.tech-CE(Part)   M   OB     NON-GATE
+                                   )
+
+                               KULDEEP
+1106   16CE6102   16P10081                    M.tech-CE(Part)   M   OB     NON-GATE
+                             KUMAR MEHTA
+
+                                 UJJAL
+1107   16CE6103   16P10088                    M.tech-CE(Part)   M   OPEN   NON-GATE
+                              CHATTERJEE
+
+1108   16EE6101   16P10063    SHISANU SEN     M.tech-EE(Part)   M   OPEN   NON-GATE
+
+1109   16ME6201   16P10103   DINESH SINGH     M.tech-ME(Part)   M   OPEN   NON-GATE
+
+1110   16MM6101   16P10055   BIVEK SARKAR     M.Tech-MM(Part)   M   OPEN   NON-GATE
+
+                                VARUN
+1111   16MM6102   16P10057                    M.Tech-MM(Part)   M   OPEN   NON-GATE
+                               RATH(NOR)
+
+1112   16CA6034   16P30386     PRIYANSHU           MCA          M   OPEN    NIMCET
+1113   16CA6001   16P30387   BIKRAM BISWAS   MCA   M    SC    NIMCET
+
+1114   16CA6002   16P30388   SHOUBHIK DAS    MCA   M   OPEN   NIMCET
+
+1115   16CA6003   16P30389   MRINMOY ROY     MCA   M    SC    NIMCET
+
+                               ABHISHEK
+1116   16CA6004   16P30390                   MCA   M   OPEN   NIMCET
+                                SINGH
+
+1117   16CA6005   16P30391   DESITTI SAGAR   MCA   M    SC    NIMCET
+
+                             SAURAV KUMAR
+1118   16CA6006   16P30392                   MCA   M   OB     NIMCET
+                               KUSHWAHA
+
+                             MANISH KUMAR
+1119   16CA6007   16P30393                   MCA   M   OB     NIMCET
+                                YADAV
+
+                              NARENDRA
+1120   16CA6008   16P30394                   MCA   M    ST    NIMCET
+                              NATH MAJHI
+
+                               PRAKASH
+1121   16CA6009   16P30395                   MCA   M    SC    NIMCET
+                             KUMAR MANDAL
+
+1122   16CA6010   16P30396    SOUMIK ROY     MCA   M   OPEN   NIMCET
+
+                                MOHIT
+1123   16CA6011   16P30397                   MCA   M   OPEN   NIMCET
+                               AGRAWAL
+
+                             ASHISH KUMAR
+1124   16CA6012   16P30398                   MCA   M   OB     NIMCET
+                                 PATEL
+
+1125   16CA6013   16P30399   EJAZ HASNAIN    MCA   M   OPEN   NIMCET
+
+                              SIDDHARTHA
+1126   16CA6014   16P30400                   MCA   M   OB     NIMCET
+                                 VIKRAM
+
+1127   16CA6015   16P30401   SPONDITA PAUL   MCA   F   OPEN   NIMCET
+
+1128   16CA6016   16P30402    RAJAN SINGH    MCA   M   OPEN   NIMCET
+
+1129   16CA6017   16P30403   MAMITA BARIK    MCA   F   OB     NIMCET
+
+                               NAMRATA
+1130   16CA6018   16P30404                   MCA   F   OPEN   NIMCET
+                                KUMARI
+
+                               BHAWANA
+1131   16CA6019   16P30405                   MCA   F   OB     NIMCET
+                                SINGH
+
+                              SURYAMUKHI
+1132   16CA6020   16P30406                   MCA   F    ST    NIMCET
+                              MAHALI(NOR)
+
+1133   16CA6021   16P30407   SUMEDHA RANI    MCA   F   OPEN   NIMCET
+
+                               SHUBHAM
+1134   16CA6022   16P30408                   MCA   M   OPEN   NIMCET
+                                KUMAR
+
+1135   16CA6023   16P30409      RISHABH      MCA   M   OPEN   NIMCET
+
+1136   16CA6024   16P30410   ANJALI KUMARI   MCA   F   OB     NIMCET
+
+1137   16CA6025   16P30411   RAVI KUSHWAHA   MCA   M   OB     NIMCET
+
+1138   16CA6026   16P30412   SARAH BAQAR     MCA   F   OPEN   NIMCET
+
+1139   16CA6027   16P30413   SAURABH OMER    MCA   M   OPEN   NIMCET
+
+                              VIVEK KUMAR
+1140   16CA6028   16P30414                   MCA   M    SC    NIMCET
+                                 RAJAK
+
+1141   16CA6029   16P30415   VIKAS KUSHWAH   MCA   M   OB     NIMCET
+
+                              MEGHNATH
+1142   16CA6030   16P30416                   MCA   M    ST    NIMCET
+                              KISKU(NOR)
+
+                                SHYAM JI
+1143   16CA6031   16P30417                   MCA   M   OPEN   NIMCET
+                                 MISHRA
+
+1144   16CA6032   16P30421    VIDYA BHARTI   MCA   F   OB     NIMCET
+
+                             SOURIT KUMAR
+1145   16CA6033   16P30422                   MCA   M   OPEN   NIMCET
+                                 JAIN
+
+1146   16CA6035   16P30446      DAMINI       MCA   F   OPEN   NIMCET
+
+1147   16MB4001   16P40425   DIMPLE MANDAL   MBA   F   OPEN    CAT
+
+1148   16MB4002   16P40426   BALA AVINASH    MBA   M   OPEN    CAT
+1149   16MB4003   16P40427   PRITI PRABHA   MBA   F   OB     CAT
+
+                               MOUMITA
+1150   16MB4004   16P40428                  MBA   F   OB     CAT
+                              KARMAKAR
+
+1151   16MB4005   16P40429   ARINDAM ROY    MBA   M   OPEN   CAT
+
+1152   16MB4006   16P40430   BIDISHA NATH   MBA   F   OPEN   CAT
+
+1153   16MB4007   16P40431   ANKIT KUMAR    MBA   M   OPEN   CAT
+
+1154   16MB4008   16P40432   NAFISHA SHAW   MBA   F   OPEN   CAT
+
+                             NISHA KUMARI
+1155   16MB4009   16P40433                  MBA   F   OPEN   CAT
+                                SINGH
+
+1156   16MB4010   16P40434   PRITI BISWAS   MBA   F   OPEN   CAT
+
+1157   16MB4011   16P40435   SNEHA SUMAN    MBA   F   OPEN   CAT
+
+1158   16MB4012   16P40436   DWAYITA PAUL   MBA   F   OPEN   CAT
+
+1159   16MB4013   16P40437   PRATIBHA ROY   MBA   F   OB     CAT
+
+                               SHRABANI
+1160   16MB4014   16P40438                  MBA   F   OPEN   CAT
+                              MUKHERJEE
+
+1161   16MB4015   16P40439   DEBARUN BOSE   MBA   M   OPEN   CAT
+
+                                SUBRAT
+1162   16MB4016   16P40440                  MBA   M    SC    CAT
+                               FOUJDAR
+
+                               ABHIJEET
+1163   16MB4017   16P40441                  MBA   M   OPEN   CAT
+                                KUMAR
+
+                                BIDYUT
+1164   16MB4018   16P40442                  MBA   M   OPEN   CAT
+                               BORDOLOI
+
+                                ARNAB
+1165   16MB4019   16P40443                  MBA   M    SC    CAT
+                              SHOW(NOR)
+
+                             GOURI SANKAR
+1166   16MB4020   16P40444                  MBA   M    SC    CAT
+                             MONDAL(NOR)
+
+1167   16MB4021   16P40445     SAJIB DAS    MBA   M    SC    CAT
+
