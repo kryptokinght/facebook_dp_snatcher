@@ -168,6 +168,15 @@ readFilePromise("message.txt").then((data) => {
 	fs.writeFile('namesList.txt', JSON.stringify(names), (err) => {
 		console.log(err);
 	});
+	let females = [];
+	for(let i = 0; i < names.length; i++) {
+		if(names[i][2] == 'F' && /B.Tech/.test(names[i][1]))
+			females.push(names[i][0]);
+	}
+	console.log(females);
+	fs.writeFile('females.txt', JSON.stringify(females), (err) => {
+		console.log(err);
+	});
 });
 
 //END of PROGRAM
